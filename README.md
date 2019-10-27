@@ -1,4 +1,4 @@
-Para deploy: https://www.heroku.com/
+Para deploy: https://www.heroku.com/ ou Digital Ocean
   
 - [ ]  https://www.youtube.com/watch?v=BN_8bCfVp88 - [API NodeJS + Express + Mongo] Estrutura e cadastro
 - [ ]  https://www.youtube.com/watch?v=KKTX1l3sZGk - [API NodeJS + Express + Mongo] Autenticação
