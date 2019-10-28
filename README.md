@@ -1,12 +1,12 @@
 Para deploy: https://www.heroku.com/ ou Digital Ocean
 
-##### Clones:
+#### Clones:
 - [ ]  https://www.youtube.com/watch?v=bg-U0xZwcRk - Clonando interface do Uber com React Native  
 - [ ]  https://www.youtube.com/watch?v=DDm0M_rZLJo - Clonando interface do Nubank (+ ANIMAÇÕES) com React Native  
 - [ ]  https://www.youtube.com/watch?v=awRtgpRsdTQ - Recriando Pipefy do zero (com drag n' drop)  
 - [ ]  https://www.youtube.com/watch?v=2nXsLpUCO20 - Clonando interface do Instagram (+ SCROLL ANIMADO) com React Native  
 
-##### Variados:
+#### Variados:
 - [ ]  https://www.youtube.com/watch?v=BN_8bCfVp88 - [API NodeJS + Express + Mongo] Estrutura e cadastro
 - [ ]  https://www.youtube.com/watch?v=KKTX1l3sZGk - [API NodeJS + Express + Mongo] Autenticação
 - [ ]  https://www.youtube.com/watch?v=Zwdv9RllPqU - [API NodeJS + Express + Mongo] Recuperação de senha com NodeMailer
