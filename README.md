@@ -1,5 +1,12 @@
 Para deploy: https://www.heroku.com/ ou Digital Ocean
-  
+
+Clones:  
+- [ ]  https://www.youtube.com/watch?v=bg-U0xZwcRk - Clonando interface do Uber com React Native  
+- [ ]  https://www.youtube.com/watch?v=DDm0M_rZLJo - Clonando interface do Nubank (+ ANIMAÇÕES) com React Native  
+- [ ]  https://www.youtube.com/watch?v=awRtgpRsdTQ - Recriando Pipefy do zero (com drag n' drop)  
+- [ ]  https://www.youtube.com/watch?v=2nXsLpUCO20 - Clonando interface do Instagram (+ SCROLL ANIMADO) com React Native  
+
+Variados:  
 - [ ]  https://www.youtube.com/watch?v=BN_8bCfVp88 - [API NodeJS + Express + Mongo] Estrutura e cadastro
 - [ ]  https://www.youtube.com/watch?v=KKTX1l3sZGk - [API NodeJS + Express + Mongo] Autenticação
 - [ ]  https://www.youtube.com/watch?v=Zwdv9RllPqU - [API NodeJS + Express + Mongo] Recuperação de senha com NodeMailer
@@ -14,7 +21,6 @@ Para deploy: https://www.heroku.com/ ou Digital Ocean
 - [ ]  https://www.youtube.com/watch?v=hs3N1pYSgig - Fila de ações offline first no React Native com Redux Saga
 - [ ]  https://www.youtube.com/watch?v=jm6aECNugeM - Quick actions (3D/Force touch) no React Native
 - [ ]  https://www.youtube.com/watch?v=kqBCHYf_adA - Deploy de aplicações NodeJS à AWS com Docker
-- [ ]  https://www.youtube.com/watch?v=bg-U0xZwcRk - Clonando interface do Uber com React Native 
 - [ ]  https://www.youtube.com/watch?v=MkkbUfcZUZM - Upload de arquivos: back-end com NodeJS
 - [ ]  https://www.youtube.com/watch?v=G5UZmvkLWSQ - Upload de arquivos: front-end com ReactJS
 - [ ]  https://www.youtube.com/watch?v=-j7vLmBMsEU - Deploy de aplicação NodeJS e ReactJS no Heroku
@@ -24,7 +30,6 @@ Para deploy: https://www.heroku.com/ ou Digital Ocean
 - [ ]  https://www.youtube.com/watch?v=6WB16wZS61c - React Hooks na prática
 - [ ]  https://www.youtube.com/watch?v=aTf8QTjw4RE - TypeScript com NodeJS do jeito certo!
 - [ ]  https://www.youtube.com/watch?v=OXxul6AvXNs - TypeScript com ReactJS, Redux e Redux Saga
-- [ ]  https://www.youtube.com/watch?v=DDm0M_rZLJo - Clonando interface do Nubank (+ ANIMAÇÕES) com React Native
 - [ ]  https://www.youtube.com/watch?v=Rt-xG_VzD6M - Criando uma CLI com NodeJS e Gluegun
 - [ ]  https://www.youtube.com/watch?v=y5Hv7pMA1uo - React Native + RealmDB: APP do zero + API do Github (🗄️ Offline Storage)
 - [ ]  https://www.youtube.com/watch?v=p6d3RzhgQbA - Criando sua própria template no React Native
@@ -33,10 +38,8 @@ Para deploy: https://www.heroku.com/ ou Digital Ocean
 - [ ]  https://www.youtube.com/watch?v=c7P03kkrEG8 - Configurando VSCode para Node.js, ReactJS e React Native
 - [ ]  https://www.youtube.com/watch?v=nznujk__7sQ - Criando app com Electron do zero!
 - [ ]  https://www.youtube.com/watch?v=oD8GqurXZ-0 - GraphQL aplicado no Node.js
-- [ ]  https://www.youtube.com/watch?v=awRtgpRsdTQ - Recriando Pipefy do zero (com drag n' drop)
 - [ ]  https://www.youtube.com/watch?v=rAzHvYnQ8DY - Array: Higher Order Functions
 - [ ]  https://www.youtube.com/watch?v=-H8pD7sMcfo - Micro-serviços com Node e Kafka
-- [ ]  https://www.youtube.com/watch?v=2nXsLpUCO20 - Clonando interface do Instagram (+ SCROLL ANIMADO) com React Native
 - [ ]  https://www.youtube.com/watch?v=HN1UjzRSdBk - Desvendando o CSS Grid na prática
 - [ ]  https://www.youtube.com/watch?v=GSqR2i-Pq6o - Desvendando a variável this no Javascript
 - [ ]  https://www.youtube.com/watch?v=3t78tTWt-JY - Behind the Code #01 - Autenticação no Adonis com TDD
