@@ -1,5 +1,4 @@
-#### Free Hosting:
-Heroku, Netlify, Github Pages, Firebase, Zeit
+###### Free Hosting: Heroku, Netlify, Github Pages, Firebase, Zeit
 
 #### Clones:
 - [ ]  https://www.youtube.com/watch?v=bg-U0xZwcRk - Clonando interface do Uber com React Native  
