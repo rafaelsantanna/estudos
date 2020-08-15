@@ -1,6 +1,6 @@
 ##### Free Hosting: Heroku, Netlify, Github Pages, Firebase, Zeit
 
-### - [x] Starter RocketSeat
+- [x] Starter RocketSeat  
 
 
 ### Omnistack
