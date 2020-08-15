@@ -1,7 +1,6 @@
 ##### Free Hosting: Heroku, Netlify, Github Pages, Firebase, Zeit
 
 ### Starter RocketSeat
-- [x] JS
 - [x] React
 - [x] React Native
 
