@@ -5,7 +5,7 @@
 
 ### Starter RocketSeat
 - [x] React
-- [x] React Native
+- [x] React Native  
 e os demais...  
 
 ### Omnistack
