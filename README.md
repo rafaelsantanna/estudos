@@ -1,5 +1,16 @@
 ##### Free Hosting: Heroku, Netlify, Github Pages, Firebase, Zeit
 
+### Omnistack
+- [ ] 8  
+- [ ] 9  
+- [ ] 10  
+- [ ] 11  
+- [ ] NLW
+
+#### Udemy:
+- [ ] https://www.udemy.com/course/javascript-curso-completo/ -  JavaScript - Curso COMPLETO com 6 Projetos REAIS
+- [ ] https://www.udemy.com/course/js-com-tdd-na-pratica/ -  JS com TDD na Prática  
+
 #### Clones:
 - [ ]  https://www.youtube.com/watch?v=bg-U0xZwcRk - Clonando interface do Uber com React Native  
 - [ ]  https://www.youtube.com/watch?v=DDm0M_rZLJo - Clonando interface do Nubank (+ ANIMAÇÕES) com React Native  
