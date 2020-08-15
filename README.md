@@ -1,5 +1,9 @@
 ##### Free Hosting: Heroku, Netlify, Github Pages, Firebase, Zeit
 
+#### Udemy:
+- [ ] https://www.udemy.com/course/javascript-curso-completo/ -  JavaScript - Curso COMPLETO com 6 Projetos REAIS  
+- [ ] https://www.udemy.com/course/js-com-tdd-na-pratica/ -  JS com TDD na Prática  
+
 ### Starter RocketSeat
 - [x] React
 - [x] React Native
@@ -10,10 +14,6 @@
 - [ ] 10  
 - [ ] 11  
 - [ ] NLW
-
-#### Udemy:
-- [ ] https://www.udemy.com/course/javascript-curso-completo/ -  JavaScript - Curso COMPLETO com 6 Projetos REAIS
-- [ ] https://www.udemy.com/course/js-com-tdd-na-pratica/ -  JS com TDD na Prática  
 
 #### Clones:
 - [ ]  https://www.youtube.com/watch?v=bg-U0xZwcRk - Clonando interface do Uber com React Native  
