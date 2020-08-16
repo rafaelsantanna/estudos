@@ -1,8 +1,5 @@
 ##### Free Hosting: Heroku, Netlify, Github Pages, Firebase, Zeit
 
-#### Udemy:
-- [ ] https://www.udemy.com/course/javascript-curso-completo/ -  JavaScript - Curso COMPLETO com 6 Projetos REAIS  
-
 ### Starter RocketSeat
 - [x] React
 - [x] React Native  
@@ -16,6 +13,7 @@ e os demais...
 - [ ] NLW
 
 #### Udemy:
+- [ ] https://www.udemy.com/course/javascript-curso-completo/ -  JavaScript - Curso COMPLETO com 6 Projetos REAIS  
 - [ ] https://www.udemy.com/course/js-com-tdd-na-pratica/ -  JS com TDD na Prática  
 
 #### Clones:
