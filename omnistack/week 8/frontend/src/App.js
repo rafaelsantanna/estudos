@@ -1,14 +1,12 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './App.css';
 
-import Login from './pages/Login';
+import Routes from './routes';
 
-class App extends Component {
-  render() {
-    return (
-      <Login />
-    );
-  }
+function App() {
+  return (
+    <Routes />
+  );
 }
 
 export default App;
