@@ -11,7 +11,7 @@ mongoose.connect('mongodb+srv://admin:admin@cluster0.j0rta.mongodb.net/<dbname>?
     useUnifiedTopology: true
 });
 
-serve.use(cors());
+server.use(cors());
 server.use(express.json());
 server.use(routes);
 
