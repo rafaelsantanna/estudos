@@ -22,7 +22,6 @@ export default function Main({ navigation }) {
                 }
             });
 
-            console.log(response.data);
             setUsers(response.data);
         }
 
