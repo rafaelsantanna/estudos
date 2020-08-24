@@ -6,7 +6,7 @@
 e os demais...  
 
 ### Omnistack
-- [ ] 8  
+- [x] 8  
 - [ ] 9  
 - [ ] 10  
 - [ ] 11  
