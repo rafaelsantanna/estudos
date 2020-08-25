@@ -11,7 +11,7 @@ mongoose.connect('mongodb+srv://admin:admin@cluster0.j0rta.mongodb.net/omnistack
   useUnifiedTopology: true,
 });
 
-app.use(cors);
+app.use(cors());
 app.use(express.json());
 app.use(routes);
 
