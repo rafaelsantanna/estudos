@@ -10,7 +10,7 @@ const SpotSchema = new mongoose.Schema({
     ref: 'User'
   }
 }, {
-  toJson: {
+  toJSON: {
     virtuals: true
   }
 });
