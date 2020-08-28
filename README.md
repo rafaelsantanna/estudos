@@ -6,8 +6,8 @@
 e os demais...  
 
 ### Omnistack
-- [x] 8  
-- [ ] 9  inprogress  
+- [x] 8 Cópia Tinder
+- [ ] 9 Cópia Airbnb 
 - [ ] 10  
 - [ ] 11  
 - [ ] NLW
