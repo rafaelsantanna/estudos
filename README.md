@@ -7,7 +7,7 @@ e os demais...
 
 ### Omnistack
 - [x] 8  
-- [ ] 9  
+- [ ] 9  inprogress  
 - [ ] 10  
 - [ ] 11  
 - [ ] NLW
