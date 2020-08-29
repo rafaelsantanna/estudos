@@ -36,13 +36,13 @@ export default function Dashboard() {
   async function handleAccept(id) {
     await api.post(`/bookings/${id}/approvals`);
 
-    setRequests(requests.filter(request => request.id !== id));
+    setRequests(requests.filter(request => request._id !== id));
   }
 
   async function handleReject(id) {
     await api.post(`/bookings/${id}/rejections`);
 
-    setRequests(requests.filter(request => request.id !== id));
+    setRequests(requests.filter(request => request._id !== id));
   }
   
   return (
@@ -51,7 +51,7 @@ export default function Dashboard() {
         {requests.map(request => (
           <li key={request._id}>
             <p>
-              <strong>{request.user.email}</strong> está solicitando uma reserva em <strong>{request.spot.comapny}</strong> para a data <strong>{request.date}</strong>
+              <strong>{request.user.email}</strong> está solicitando uma reserva em <strong>{request.spot.company}</strong> para a data <strong> {request.date}</strong>
               <button className="accept" onClick={() => handleAccept(request._id)}>ACEITAR</button>
               <button className="reject" onClick={() => handleReject(request._id)}>REJEITAR</button>
             </p>
