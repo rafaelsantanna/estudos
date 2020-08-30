@@ -8,7 +8,7 @@ e os demais...
 ### Omnistack
 - [x] 8 Clone Tinder
 - [x] 9 Clone Airbnb 
-- [ ] 10  
+- [ ] 10 Find Devs
 - [ ] 11  
 - [ ] NLW
 
