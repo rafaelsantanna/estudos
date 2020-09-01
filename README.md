@@ -16,11 +16,17 @@ e os demais...
 - [ ] https://www.udemy.com/course/js-com-tdd-na-pratica/ -  JS com TDD na Prática  
 - [ ] https://www.udemy.com/course/javascript-curso-completo/ -  JavaScript - Curso COMPLETO com 6 Projetos REAIS (Clones whatsapp e dropbox)  
 
-#### Clones:
+#### UI Clones:
 - [ ]  https://www.youtube.com/watch?v=bg-U0xZwcRk - Clonando interface do Uber com React Native  
 - [ ]  https://www.youtube.com/watch?v=DDm0M_rZLJo - Clonando interface do Nubank (+ ANIMAÇÕES) com React Native  
 - [ ]  https://www.youtube.com/watch?v=2nXsLpUCO20 - Clonando interface do Instagram (+ SCROLL ANIMADO) com React Native  
 - [ ]  https://www.youtube.com/watch?v=awRtgpRsdTQ - Recriando Pipefy do zero (com drag n' drop)  
+- [ ]  https://www.youtube.com/watch?v=x4FdZd2-_uU - Recriando a Interface do Discord com ReactJS | UI Clone  
+- [ ]  https://www.youtube.com/watch?v=K-8z_4xvT3o - Twitter Responsivo com ReactJS | UI Clone  
+- [ ]  https://www.youtube.com/watch?v=iLEbGQXsg3k - Recriando interface do Github com ReactJS | UI Clone  
+- [ ]  https://www.youtube.com/watch?v=VqP1ECc_j4M - Recriando página do Dropbox com ReactJS | UI Clone  
+- [ ]  https://www.youtube.com/watch?v=-ZV-_7vNRGw - LinkedIn e Shimmer Effect no ReactJS | UI Clone  
+- [ ]  https://www.youtube.com/watch?v=bJVp_vlvMwQ - Interface da Twitch.tv | UI Clone  
 
 ### Podcasts:
 - [x]  https://www.youtube.com/watch?v=ixbvCw-YiOA - AdonisJS, vale a pena utilizar? | Podcast FalaDev #01  
@@ -110,22 +116,16 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=7HMlkIBRH60 - Escalando Aplicações para Milhões de Usuários na Rede Globo | Use Case #02
 - [ ]  https://www.youtube.com/watch?v=6wn8hpUcEcM - Drag and Drop Raiz com a API do HTML, CSS e JavaScript | Masterclass #16
 - [ ]  https://www.youtube.com/watch?v=SrY8qV6UJ1M - Deploy de apps ReactJS para Google Cloud Storage (part. Guilherme Pellizzetti) | Masterclass #17
-- [ ]  https://www.youtube.com/watch?v=x4FdZd2-_uU - Recriando a Interface do Discord com ReactJS | UI Clone
 - [ ]  https://www.youtube.com/watch?v=rCeGfFk-uCk - Setup para apps Node.js (TypeScript, ESLint, Jest, Babel) | Code/Drops #33
 - [ ]  https://www.youtube.com/watch?v=AqJKAJ0TKms - Criando um PWA com React Native & Expo Web | Code/Drops #34
 - [ ]  https://www.youtube.com/watch?v=Ln926XT33RM - Estou criando uma GUI de Redis com Electron | Code/Drops #36
-- [ ]  https://www.youtube.com/watch?v=K-8z_4xvT3o - Twitter Responsivo com ReactJS | UI Clone
 - [ ]  https://www.youtube.com/watch?v=Pbs1VIwPoRA - Consumindo APIs no React com SWR | Code/Drops #38
 - [ ]  https://www.youtube.com/watch?v=vAV4Vy4jfkc - Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44
 - [ ]  https://www.youtube.com/watch?v=YQr5CIRZ4Og - Micro Frontends, Node.js, Unform, StyleSheets, Styled-components, ORMs | #PR 13
 - [ ]  https://www.youtube.com/watch?v=vYlz3SmNXQQ - Consumindo API no Front e no Back-end | CodeDrops #45
-- [ ]  https://www.youtube.com/watch?v=iLEbGQXsg3k - Recriando interface do Github com ReactJS | UI Clone
 - [ ]  https://www.youtube.com/watch?v=6uixYHh7XEc - Animações no React Native com Reanimated V2 | Code/Drops #45
 - [ ]  https://www.youtube.com/watch?v=K5yYBJhix5A - Extraindo dados de outros sites com Puppeteer JS | Code/Drops #46
-- [ ]  https://www.youtube.com/watch?v=VqP1ECc_j4M - Recriando página do Dropbox com ReactJS | UI Clone
 - [ ]  https://www.youtube.com/watch?v=EX48Yk_e2OE - Offline First: Apps que funcionam sem internet | Code/Drops #47
-- [ ]  https://www.youtube.com/watch?v=-ZV-_7vNRGw - LinkedIn e Shimmer Effect no ReactJS | UI Clone
 - [ ]  https://www.youtube.com/watch?v=6TEo2AxW-oQ - Aplicações React do futuro? UI declarativas, design system e frameworks | Code/Drops #48
-- [ ]  https://www.youtube.com/watch?v=bJVp_vlvMwQ - Interface da Twitch.tv | UI Clone
 - [ ]  https://www.youtube.com/watch?v=1nVUfZg2dSA - Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components | Code/Drops #50
 - [ ]  https://www.youtube.com/watch?v=EXpct54Vc5A - Pesquisa e Elaboração de Conteúdo, Typescript 4.0 e VueJS 3.0, React Context X Redux | #PR 16
