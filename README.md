@@ -22,7 +22,21 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=2nXsLpUCO20 - Clonando interface do Instagram (+ SCROLL ANIMADO) com React Native  
 - [ ]  https://www.youtube.com/watch?v=awRtgpRsdTQ - Recriando Pipefy do zero (com drag n' drop)  
 
+### Podcasts:
+- [x]  https://www.youtube.com/watch?v=ixbvCw-YiOA - AdonisJS, vale a pena utilizar? | Podcast FalaDev #01  
+- [ ]  https://www.youtube.com/watch?v=YPZehcsu9D0 - Sequelize e estratégias de SQL no Node.js | Podcast FalaDev #06  
+- [ ]  https://www.youtube.com/watch?v=9qVpnT97Mxw - GraphQL e REST, a situação atual do mercado | Podcast FalaDev #07  
+- [ ]  https://www.youtube.com/watch?v=py6vHgL6saw - Testes no back-end, TDD e estratégias | Podcast FalaDev #10  
+- [ ]  https://www.youtube.com/watch?v=L0zuZYh800Q - Boas práticas no front-end, técnicas e estratégias | Podcast FalaDev #12  
+- [ ]  https://www.youtube.com/watch?v=NXqgPWqwApY - Hospedagem para Node.js, dicas e técnicas | Podcast FalaDev #14  
+- [ ]  https://www.youtube.com/watch?v=U2eMpo4e9LM - Offline First no React Native, como aplicar? | Podcast FalaDev #17
+- [ ]  https://www.youtube.com/watch?v=QBenZ7xpZds - Documentando uma API RESTful, ferramentas e timing | Podcast FalaDev #18
+- [ ]  https://www.youtube.com/watch?v=_J7LJlJ7UC8 - CI/CD com React Native, ferramentas e estratégias | Podcast FalaDev #20
+- [ ]  https://www.youtube.com/watch?v=mZrt5R9eZzM - Estratégias de autenticação, JWT, OAuth, qual usar? | Podcast FalaDev #21
+- [ ]  https://www.youtube.com/watch?v=ShnSc0DD1z4 - TypeScript vale a pena? JavaScript perde sentido? | Podcast FalaDev #22
+
 #### Variados:
+- [ ]  https://www.youtube.com/watch?v=0mYq5LrQN1s - TypeScript, o início, de forma prática | MasterClass #07
 - [ ]  https://www.youtube.com/watch?v=BN_8bCfVp88 - [API NodeJS + Express + Mongo] Estrutura e cadastro
 - [ ]  https://www.youtube.com/watch?v=KKTX1l3sZGk - [API NodeJS + Express + Mongo] Autenticação
 - [ ]  https://www.youtube.com/watch?v=Zwdv9RllPqU - [API NodeJS + Express + Mongo] Recuperação de senha com NodeMailer
@@ -71,31 +85,19 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=V3QGW2PgKKY - Code/Drops #04 - Animações do After Effects no React Native com Lottie
 - [ ]  https://www.youtube.com/watch?v=Fbu7z5dXcRs - Masterclass #01 - SQL no Node.js com Sequelize
 - [ ]  https://www.youtube.com/watch?v=uonKHztGhko - Background jobs (filas) no Node.js com Redis | Masterclass #02
-- [ ]  https://www.youtube.com/watch?v=ixbvCw-YiOA - AdonisJS, vale a pena utilizar? | Podcast FalaDev #01
-- [ ]  https://www.youtube.com/watch?v=YPZehcsu9D0 - Sequelize e estratégias de SQL no Node.js | Podcast FalaDev #06
-- [ ]  https://www.youtube.com/watch?v=9qVpnT97Mxw - GraphQL e REST, a situação atual do mercado | Podcast FalaDev #07
 - [ ]  https://www.youtube.com/watch?v=bVAhNaxBEjM - Debug de aplicações Node.js com VSCode | Code/Drops #11
 - [ ]  https://www.youtube.com/watch?v=erInHkjxkL8 - Padronizando mensagens de commit do Git | Code/Drops #12
 - [ ]  https://www.youtube.com/watch?v=GOB-lawExXc - React Hooks com TypeScript | Masterclass #04
 - [ ]  https://www.youtube.com/watch?v=jMWNNSx-mcU - Por que useCallback faz tanto sentido? | Code/Drops #13
-- [ ]  https://www.youtube.com/watch?v=py6vHgL6saw - Testes no back-end, TDD e estratégias | Podcast FalaDev #10
 - [ ]  https://www.youtube.com/watch?v=f9zdYWnuPzc - MVP de micro-serviço com TypeScript, Mongo e TDD | Behind the Code #10
 - [ ]  https://www.youtube.com/watch?v=wYMvzbfBdYI - Gerando APK (Android) e IPA (iOS) com React Native & Expo | Code/Drops #15
-- [ ]  https://www.youtube.com/watch?v=L0zuZYh800Q - Boas práticas no front-end, técnicas e estratégias | Podcast FalaDev #12
 - [ ]  https://www.youtube.com/watch?v=2DJtGCesOr4 - Envio de e-mails em massa com Amazon SES, Node.js, TypeScript e Redis | Behind the Code #11
-- [ ]  https://www.youtube.com/watch?v=NXqgPWqwApY - Hospedagem para Node.js, dicas e técnicas | Podcast FalaDev #14
 - [ ]  https://www.youtube.com/watch?v=sBA_SDhIPqQ - Utilizando React.memo | Code/Drops #18
 - [ ]  https://www.youtube.com/watch?v=IPLTUlRFxgo - Configurando CI em projeto open-source com Github Actions | Behind the Code #12
-- [ ]  https://www.youtube.com/watch?v=0mYq5LrQN1s - TypeScript, o início, de forma prática | MasterClass #07
-- [ ]  https://www.youtube.com/watch?v=U2eMpo4e9LM - Offline First no React Native, como aplicar? | Podcast FalaDev #17
-- [ ]  https://www.youtube.com/watch?v=QBenZ7xpZds - Documentando uma API RESTful, ferramentas e timing | Podcast FalaDev #18
 - [ ]  https://www.youtube.com/watch?v=qaSwiYBC3sk - Features do ES2020 para o JavaScript | Code/Drops #20
 - [ ]  https://www.youtube.com/watch?v=ItEgNda8ApY - Adonis v5, adição de TypeScript e mais | Code/Drops #21
-- [ ]  https://www.youtube.com/watch?v=_J7LJlJ7UC8 - CI/CD com React Native, ferramentas e estratégias | Podcast FalaDev #20
 - [ ]  https://www.youtube.com/watch?v=DiXbJL3iWVs - Node.js: Iniciando da teoria à prática | Masterclass #11
-- [ ]  https://www.youtube.com/watch?v=mZrt5R9eZzM - Estratégias de autenticação, JWT, OAuth, qual usar? | Podcast FalaDev #21
 - [ ]  https://www.youtube.com/watch?v=j0MCdrqN8nU - UI Kit com React e Storybook | Code Challenge
-- [ ]  https://www.youtube.com/watch?v=ShnSc0DD1z4 - TypeScript vale a pena? JavaScript perde sentido? | Podcast FalaDev #22
 - [ ]  https://www.youtube.com/watch?v=KISMYYXSIX8 - Autenticação no React Native / ReactJS com Context API & Hooks | Masterclass #12
 - [ ]  https://www.youtube.com/watch?v=sEE-3P9kKyE - Typescript, Carreira & AdonisJS | #PR 01
 - [ ]  https://www.youtube.com/watch?v=U7GjS3FuSkA - SQL no Node.js com Knex.js | Masterclass #13
