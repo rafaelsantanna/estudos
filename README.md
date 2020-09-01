@@ -59,6 +59,29 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=AqJKAJ0TKms - Criando um PWA com React Native & Expo Web | Code/Drops #34
 - [ ]  https://www.youtube.com/watch?v=6uixYHh7XEc - Animações no React Native com Reanimated V2 | Code/Drops #45
 
+### Node.js:
+- [ ]  https://www.youtube.com/watch?v=c7P03kkrEG8 - Configurando VSCode para Node.js, ReactJS e React Native
+- [ ]  https://www.youtube.com/watch?v=BN_8bCfVp88 - [API NodeJS + Express + Mongo] Estrutura e cadastro
+- [ ]  https://www.youtube.com/watch?v=KKTX1l3sZGk - [API NodeJS + Express + Mongo] Autenticação
+- [ ]  https://www.youtube.com/watch?v=Zwdv9RllPqU - [API NodeJS + Express + Mongo] Recuperação de senha com NodeMailer
+- [ ]  https://www.youtube.com/watch?v=GAZdUyIV3ms - [API NodeJS + Express + Mongo] CRUD e relacionamentos com MongoDB
+- [ ]  https://www.youtube.com/watch?v=-jXfKDYJJvo - Chat em tempo real com NodeJS + Socket.io
+- [ ]  https://www.youtube.com/watch?v=kqBCHYf_adA - Deploy de aplicações NodeJS à AWS com Docker
+- [ ]  https://www.youtube.com/watch?v=MkkbUfcZUZM - Upload de arquivos: back-end com NodeJS
+- [ ]  https://www.youtube.com/watch?v=G5UZmvkLWSQ - Upload de arquivos: front-end com ReactJS
+- [ ]  https://www.youtube.com/watch?v=-j7vLmBMsEU - Deploy de aplicação NodeJS e ReactJS no Heroku
+- [ ]  https://www.youtube.com/watch?v=2G_mWfG0DZE - Testes no NodeJS aplicando TDD com Jest
+- [ ]  https://www.youtube.com/watch?v=jiP45rEOEbA - Serverless com NodeJS e AWS Lambda
+- [ ]  https://www.youtube.com/watch?v=Rt-xG_VzD6M - Criando uma CLI com NodeJS e Gluegun
+- [ ]  https://www.youtube.com/watch?v=oD8GqurXZ-0 - GraphQL aplicado no Node.js
+- [ ]  https://www.youtube.com/watch?v=-H8pD7sMcfo - Micro-serviços com Node e Kafka
+- [ ]  https://www.youtube.com/watch?v=Fbu7z5dXcRs - Masterclass #01 - SQL no Node.js com Sequelize
+- [ ]  https://www.youtube.com/watch?v=uonKHztGhko - Background jobs (filas) no Node.js com Redis | Masterclass #02
+- [ ]  https://www.youtube.com/watch?v=bVAhNaxBEjM - Debug de aplicações Node.js com VSCode | Code/Drops #11
+- [ ]  https://www.youtube.com/watch?v=DiXbJL3iWVs - Node.js: Iniciando da teoria à prática | Masterclass #11
+- [ ]  https://www.youtube.com/watch?v=U7GjS3FuSkA - SQL no Node.js com Knex.js | Masterclass #13
+- [ ]  https://www.youtube.com/watch?v=YQr5CIRZ4Og - Micro Frontends, Node.js, Unform, StyleSheets, Styled-components, ORMs | #PR 13
+
 ### Podcasts:
 - [x]  https://www.youtube.com/watch?v=ixbvCw-YiOA - AdonisJS, vale a pena utilizar? | Podcast FalaDev #01  
 - [ ]  https://www.youtube.com/watch?v=YPZehcsu9D0 - Sequelize e estratégias de SQL no Node.js | Podcast FalaDev #06  
@@ -72,32 +95,16 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=mZrt5R9eZzM - Estratégias de autenticação, JWT, OAuth, qual usar? | Podcast FalaDev #21
 
 #### Variados:
-
-- [ ]  https://www.youtube.com/watch?v=c7P03kkrEG8 - Configurando VSCode para Node.js, ReactJS e React Native
-- [ ]  https://www.youtube.com/watch?v=BN_8bCfVp88 - [API NodeJS + Express + Mongo] Estrutura e cadastro
-- [ ]  https://www.youtube.com/watch?v=KKTX1l3sZGk - [API NodeJS + Express + Mongo] Autenticação
-- [ ]  https://www.youtube.com/watch?v=Zwdv9RllPqU - [API NodeJS + Express + Mongo] Recuperação de senha com NodeMailer
-- [ ]  https://www.youtube.com/watch?v=GAZdUyIV3ms - [API NodeJS + Express + Mongo] CRUD e relacionamentos com MongoDB
 - [ ]  https://www.youtube.com/watch?v=VwAYyXZk5as - Features do ES6, ES7 e ES8 produtivas
-- [ ]  https://www.youtube.com/watch?v=-jXfKDYJJvo - Chat em tempo real com NodeJS + Socket.io
 - [ ]  https://www.youtube.com/watch?v=sYe4r8WXGQg - Controlando autenticação em rotas no ReactJS
 - [ ]  https://www.youtube.com/watch?v=_XU8hTHNcj8 - API em AdonisJS com ReactJS
 - [ ]  https://www.youtube.com/watch?v=TI4v4Y8yRjw - Style guides Javascript com ESLint, Prettier e EditorConfi
-- [ ]  https://www.youtube.com/watch?v=kqBCHYf_adA - Deploy de aplicações NodeJS à AWS com Docker
-- [ ]  https://www.youtube.com/watch?v=MkkbUfcZUZM - Upload de arquivos: back-end com NodeJS
-- [ ]  https://www.youtube.com/watch?v=G5UZmvkLWSQ - Upload de arquivos: front-end com ReactJS
-- [ ]  https://www.youtube.com/watch?v=-j7vLmBMsEU - Deploy de aplicação NodeJS e ReactJS no Heroku
-- [ ]  https://www.youtube.com/watch?v=2G_mWfG0DZE - Testes no NodeJS aplicando TDD com Jest
-- [ ]  https://www.youtube.com/watch?v=jiP45rEOEbA - Serverless com NodeJS e AWS Lambda
 - [ ]  https://www.youtube.com/watch?v=u99tNt3TZf8 - Desvendando o Redux na prática
 - [ ]  https://www.youtube.com/watch?v=6WB16wZS61c - React Hooks na prática
-- [ ]  https://www.youtube.com/watch?v=Rt-xG_VzD6M - Criando uma CLI com NodeJS e Gluegun
 - [ ]  https://www.youtube.com/watch?v=7L7MhxjI4PE - React Hooks + Redux
 - [ ]  https://www.youtube.com/watch?v=jcc9T-5inrk - Utilizando o Hook do useEffect
 - [ ]  https://www.youtube.com/watch?v=nznujk__7sQ - Criando app com Electron do zero!
-- [ ]  https://www.youtube.com/watch?v=oD8GqurXZ-0 - GraphQL aplicado no Node.js
 - [ ]  https://www.youtube.com/watch?v=rAzHvYnQ8DY - Array: Higher Order Functions
-- [ ]  https://www.youtube.com/watch?v=-H8pD7sMcfo - Micro-serviços com Node e Kafka
 - [ ]  https://www.youtube.com/watch?v=HN1UjzRSdBk - Desvendando o CSS Grid na prática
 - [ ]  https://www.youtube.com/watch?v=GSqR2i-Pq6o - Desvendando a variável this no Javascript
 - [ ]  https://www.youtube.com/watch?v=3t78tTWt-JY - Behind the Code #01 - Autenticação no Adonis com TDD
@@ -108,17 +115,12 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=rrvgngRairM - Behind the Code #06 - Feature de transcrição no Skylab
 - [ ]  https://www.youtube.com/watch?v=GykTLqODQuU - Formulário Animado com JS puro e CSS Animation
 - [ ]  https://www.youtube.com/watch?v=vqrjFnq3-uo - Criando Player de Áudio com Javascript
-- [ ]  https://www.youtube.com/watch?v=Fbu7z5dXcRs - Masterclass #01 - SQL no Node.js com Sequelize
-- [ ]  https://www.youtube.com/watch?v=uonKHztGhko - Background jobs (filas) no Node.js com Redis | Masterclass #02
-- [ ]  https://www.youtube.com/watch?v=bVAhNaxBEjM - Debug de aplicações Node.js com VSCode | Code/Drops #11
 - [ ]  https://www.youtube.com/watch?v=erInHkjxkL8 - Padronizando mensagens de commit do Git | Code/Drops #12
 - [ ]  https://www.youtube.com/watch?v=jMWNNSx-mcU - Por que useCallback faz tanto sentido? | Code/Drops #13
 - [ ]  https://www.youtube.com/watch?v=sBA_SDhIPqQ - Utilizando React.memo | Code/Drops #18
 - [ ]  https://www.youtube.com/watch?v=IPLTUlRFxgo - Configurando CI em projeto open-source com Github Actions | Behind the Code #12
 - [ ]  https://www.youtube.com/watch?v=qaSwiYBC3sk - Features do ES2020 para o JavaScript | Code/Drops #20
-- [ ]  https://www.youtube.com/watch?v=DiXbJL3iWVs - Node.js: Iniciando da teoria à prática | Masterclass #11
 - [ ]  https://www.youtube.com/watch?v=j0MCdrqN8nU - UI Kit com React e Storybook | Code Challenge
-- [ ]  https://www.youtube.com/watch?v=U7GjS3FuSkA - SQL no Node.js com Knex.js | Masterclass #13
 - [ ]  https://www.youtube.com/watch?v=SXSKvUB9wDA - Pagamento com Stripe e Next.js SSG | Code Challenge
 - [ ]  https://www.youtube.com/watch?v=EhnXaybirdA - Criando um projeto do zero para seu portfólio | Masterclass #14
 - [ ]  https://www.youtube.com/watch?v=vq9u5esgEoQ - Ferramentas Front-end e Back-end | Melhores Momentos S01
@@ -129,7 +131,6 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=SrY8qV6UJ1M - Deploy de apps ReactJS para Google Cloud Storage (part. Guilherme Pellizzetti) | Masterclass #17
 - [ ]  https://www.youtube.com/watch?v=Ln926XT33RM - Estou criando uma GUI de Redis com Electron | Code/Drops #36
 - [ ]  https://www.youtube.com/watch?v=Pbs1VIwPoRA - Consumindo APIs no React com SWR | Code/Drops #38
-- [ ]  https://www.youtube.com/watch?v=YQr5CIRZ4Og - Micro Frontends, Node.js, Unform, StyleSheets, Styled-components, ORMs | #PR 13
 - [ ]  https://www.youtube.com/watch?v=vYlz3SmNXQQ - Consumindo API no Front e no Back-end | CodeDrops #45
 - [ ]  https://www.youtube.com/watch?v=K5yYBJhix5A - Extraindo dados de outros sites com Puppeteer JS | Code/Drops #46
 - [ ]  https://www.youtube.com/watch?v=EX48Yk_e2OE - Offline First: Apps que funcionam sem internet | Code/Drops #47
