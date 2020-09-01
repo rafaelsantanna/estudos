@@ -16,6 +16,21 @@ e os demais...
 - [ ] https://www.udemy.com/course/js-com-tdd-na-pratica/ -  JS com TDD na Prática  
 - [ ] https://www.udemy.com/course/javascript-curso-completo/ -  JavaScript - Curso COMPLETO com 6 Projetos REAIS (Clones whatsapp e dropbox)  
 
+#### Typescript:
+- [ ]  https://www.youtube.com/watch?v=ShnSc0DD1z4 - TypeScript vale a pena? JavaScript perde sentido? | Podcast FalaDev #22  
+- [ ]  https://www.youtube.com/watch?v=0mYq5LrQN1s - TypeScript, o início, de forma prática | MasterClass #07  
+- [ ]  https://www.youtube.com/watch?v=aTf8QTjw4RE - TypeScript com NodeJS do jeito certo!  
+- [ ]  https://www.youtube.com/watch?v=OXxul6AvXNs - TypeScript com ReactJS, Redux e Redux Saga  
+- [ ]  https://www.youtube.com/watch?v=GOB-lawExXc - React Hooks com TypeScript | Masterclass #04  
+- [ ]  https://www.youtube.com/watch?v=f9zdYWnuPzc - MVP de micro-serviço com TypeScript, Mongo e TDD | Behind the Code #10  
+- [ ]  https://www.youtube.com/watch?v=ItEgNda8ApY - Adonis v5, adição de TypeScript e mais | Code/Drops #21  
+- [ ]  https://www.youtube.com/watch?v=2DJtGCesOr4 - Envio de e-mails em massa com Amazon SES, Node.js, TypeScript e Redis | Behind the Code #11  
+- [ ]  https://www.youtube.com/watch?v=sEE-3P9kKyE - Typescript, Carreira & AdonisJS | #PR 01  
+- [ ]  https://www.youtube.com/watch?v=rCeGfFk-uCk - Setup para apps Node.js (TypeScript, ESLint, Jest, Babel) | Code/Drops #33  
+- [ ]  https://www.youtube.com/watch?v=vAV4Vy4jfkc - Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44  
+- [ ]  https://www.youtube.com/watch?v=1nVUfZg2dSA - Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components | Code/Drops #50  
+- [ ]  https://www.youtube.com/watch?v=EXpct54Vc5A - Pesquisa e Elaboração de Conteúdo, Typescript 4.0 e VueJS 3.0, React Context X Redux | #PR 16  
+
 #### UI Clones:
 - [ ]  https://www.youtube.com/watch?v=bg-U0xZwcRk - Clonando interface do Uber com React Native  
 - [ ]  https://www.youtube.com/watch?v=DDm0M_rZLJo - Clonando interface do Nubank (+ ANIMAÇÕES) com React Native  
@@ -39,10 +54,9 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=QBenZ7xpZds - Documentando uma API RESTful, ferramentas e timing | Podcast FalaDev #18
 - [ ]  https://www.youtube.com/watch?v=_J7LJlJ7UC8 - CI/CD com React Native, ferramentas e estratégias | Podcast FalaDev #20
 - [ ]  https://www.youtube.com/watch?v=mZrt5R9eZzM - Estratégias de autenticação, JWT, OAuth, qual usar? | Podcast FalaDev #21
-- [ ]  https://www.youtube.com/watch?v=ShnSc0DD1z4 - TypeScript vale a pena? JavaScript perde sentido? | Podcast FalaDev #22
 
 #### Variados:
-- [ ]  https://www.youtube.com/watch?v=0mYq5LrQN1s - TypeScript, o início, de forma prática | MasterClass #07
+
 - [ ]  https://www.youtube.com/watch?v=BN_8bCfVp88 - [API NodeJS + Express + Mongo] Estrutura e cadastro
 - [ ]  https://www.youtube.com/watch?v=KKTX1l3sZGk - [API NodeJS + Express + Mongo] Autenticação
 - [ ]  https://www.youtube.com/watch?v=Zwdv9RllPqU - [API NodeJS + Express + Mongo] Recuperação de senha com NodeMailer
@@ -64,8 +78,6 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=jiP45rEOEbA - Serverless com NodeJS e AWS Lambda
 - [ ]  https://www.youtube.com/watch?v=u99tNt3TZf8 - Desvendando o Redux na prática
 - [ ]  https://www.youtube.com/watch?v=6WB16wZS61c - React Hooks na prática
-- [ ]  https://www.youtube.com/watch?v=aTf8QTjw4RE - TypeScript com NodeJS do jeito certo!
-- [ ]  https://www.youtube.com/watch?v=OXxul6AvXNs - TypeScript com ReactJS, Redux e Redux Saga
 - [ ]  https://www.youtube.com/watch?v=Rt-xG_VzD6M - Criando uma CLI com NodeJS e Gluegun
 - [ ]  https://www.youtube.com/watch?v=y5Hv7pMA1uo - React Native + RealmDB: APP do zero + API do Github (🗄️ Offline Storage)
 - [ ]  https://www.youtube.com/watch?v=p6d3RzhgQbA - Criando sua própria template no React Native
@@ -93,19 +105,14 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=uonKHztGhko - Background jobs (filas) no Node.js com Redis | Masterclass #02
 - [ ]  https://www.youtube.com/watch?v=bVAhNaxBEjM - Debug de aplicações Node.js com VSCode | Code/Drops #11
 - [ ]  https://www.youtube.com/watch?v=erInHkjxkL8 - Padronizando mensagens de commit do Git | Code/Drops #12
-- [ ]  https://www.youtube.com/watch?v=GOB-lawExXc - React Hooks com TypeScript | Masterclass #04
 - [ ]  https://www.youtube.com/watch?v=jMWNNSx-mcU - Por que useCallback faz tanto sentido? | Code/Drops #13
-- [ ]  https://www.youtube.com/watch?v=f9zdYWnuPzc - MVP de micro-serviço com TypeScript, Mongo e TDD | Behind the Code #10
 - [ ]  https://www.youtube.com/watch?v=wYMvzbfBdYI - Gerando APK (Android) e IPA (iOS) com React Native & Expo | Code/Drops #15
-- [ ]  https://www.youtube.com/watch?v=2DJtGCesOr4 - Envio de e-mails em massa com Amazon SES, Node.js, TypeScript e Redis | Behind the Code #11
 - [ ]  https://www.youtube.com/watch?v=sBA_SDhIPqQ - Utilizando React.memo | Code/Drops #18
 - [ ]  https://www.youtube.com/watch?v=IPLTUlRFxgo - Configurando CI em projeto open-source com Github Actions | Behind the Code #12
 - [ ]  https://www.youtube.com/watch?v=qaSwiYBC3sk - Features do ES2020 para o JavaScript | Code/Drops #20
-- [ ]  https://www.youtube.com/watch?v=ItEgNda8ApY - Adonis v5, adição de TypeScript e mais | Code/Drops #21
 - [ ]  https://www.youtube.com/watch?v=DiXbJL3iWVs - Node.js: Iniciando da teoria à prática | Masterclass #11
 - [ ]  https://www.youtube.com/watch?v=j0MCdrqN8nU - UI Kit com React e Storybook | Code Challenge
 - [ ]  https://www.youtube.com/watch?v=KISMYYXSIX8 - Autenticação no React Native / ReactJS com Context API & Hooks | Masterclass #12
-- [ ]  https://www.youtube.com/watch?v=sEE-3P9kKyE - Typescript, Carreira & AdonisJS | #PR 01
 - [ ]  https://www.youtube.com/watch?v=U7GjS3FuSkA - SQL no Node.js com Knex.js | Masterclass #13
 - [ ]  https://www.youtube.com/watch?v=SXSKvUB9wDA - Pagamento com Stripe e Next.js SSG | Code Challenge
 - [ ]  https://www.youtube.com/watch?v=EhnXaybirdA - Criando um projeto do zero para seu portfólio | Masterclass #14
@@ -116,16 +123,12 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=7HMlkIBRH60 - Escalando Aplicações para Milhões de Usuários na Rede Globo | Use Case #02
 - [ ]  https://www.youtube.com/watch?v=6wn8hpUcEcM - Drag and Drop Raiz com a API do HTML, CSS e JavaScript | Masterclass #16
 - [ ]  https://www.youtube.com/watch?v=SrY8qV6UJ1M - Deploy de apps ReactJS para Google Cloud Storage (part. Guilherme Pellizzetti) | Masterclass #17
-- [ ]  https://www.youtube.com/watch?v=rCeGfFk-uCk - Setup para apps Node.js (TypeScript, ESLint, Jest, Babel) | Code/Drops #33
 - [ ]  https://www.youtube.com/watch?v=AqJKAJ0TKms - Criando um PWA com React Native & Expo Web | Code/Drops #34
 - [ ]  https://www.youtube.com/watch?v=Ln926XT33RM - Estou criando uma GUI de Redis com Electron | Code/Drops #36
 - [ ]  https://www.youtube.com/watch?v=Pbs1VIwPoRA - Consumindo APIs no React com SWR | Code/Drops #38
-- [ ]  https://www.youtube.com/watch?v=vAV4Vy4jfkc - Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44
 - [ ]  https://www.youtube.com/watch?v=YQr5CIRZ4Og - Micro Frontends, Node.js, Unform, StyleSheets, Styled-components, ORMs | #PR 13
 - [ ]  https://www.youtube.com/watch?v=vYlz3SmNXQQ - Consumindo API no Front e no Back-end | CodeDrops #45
 - [ ]  https://www.youtube.com/watch?v=6uixYHh7XEc - Animações no React Native com Reanimated V2 | Code/Drops #45
 - [ ]  https://www.youtube.com/watch?v=K5yYBJhix5A - Extraindo dados de outros sites com Puppeteer JS | Code/Drops #46
 - [ ]  https://www.youtube.com/watch?v=EX48Yk_e2OE - Offline First: Apps que funcionam sem internet | Code/Drops #47
 - [ ]  https://www.youtube.com/watch?v=6TEo2AxW-oQ - Aplicações React do futuro? UI declarativas, design system e frameworks | Code/Drops #48
-- [ ]  https://www.youtube.com/watch?v=1nVUfZg2dSA - Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components | Code/Drops #50
-- [ ]  https://www.youtube.com/watch?v=EXpct54Vc5A - Pesquisa e Elaboração de Conteúdo, Typescript 4.0 e VueJS 3.0, React Context X Redux | #PR 16
