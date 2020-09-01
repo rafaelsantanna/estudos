@@ -31,6 +31,21 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=1nVUfZg2dSA - Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components | Code/Drops #50  
 - [ ]  https://www.youtube.com/watch?v=EXpct54Vc5A - Pesquisa e Elaboração de Conteúdo, Typescript 4.0 e VueJS 3.0, React Context X Redux | #PR 16  
 
+### React
+- [ ]  https://www.youtube.com/watch?v=vq9u5esgEoQ - Ferramentas Front-end e Back-end | Melhores Momentos S01
+- [ ]  https://www.youtube.com/watch?v=6WB16wZS61c - React Hooks na prática
+- [ ]  https://www.youtube.com/watch?v=u99tNt3TZf8 - Desvendando o Redux na prática
+- [ ]  https://www.youtube.com/watch?v=sYe4r8WXGQg - Controlando autenticação em rotas no ReactJS
+- [ ]  https://www.youtube.com/watch?v=7L7MhxjI4PE - React Hooks + Redux
+- [ ]  https://www.youtube.com/watch?v=sBA_SDhIPqQ - Utilizando React.memo | Code/Drops #18
+- [ ]  https://www.youtube.com/watch?v=jcc9T-5inrk - Utilizando o Hook do useEffect
+- [ ]  https://www.youtube.com/watch?v=jMWNNSx-mcU - Por que useCallback faz tanto sentido? | Code/Drops #13
+- [ ]  https://www.youtube.com/watch?v=j0MCdrqN8nU - UI Kit com React e Storybook | Code Challenge
+- [ ]  https://www.youtube.com/watch?v=xYSDBevtEp0 - Recoil.js: Nova Biblioteca de Gerenciamento de Estado do Facebook para React | Code Challenge
+- [ ]  https://www.youtube.com/watch?v=Pbs1VIwPoRA - Consumindo APIs no React com SWR | Code/Drops #38
+- [ ]  https://www.youtube.com/watch?v=vYlz3SmNXQQ - Consumindo API no Front e no Back-end | CodeDrops #45
+- [ ]  https://www.youtube.com/watch?v=6TEo2AxW-oQ - Aplicações React do futuro? UI declarativas, design system e frameworks | Code/Drops #48
+
 ### UI Clones:
 - [ ]  https://www.youtube.com/watch?v=bg-U0xZwcRk - Clonando interface do Uber com React Native  
 - [ ]  https://www.youtube.com/watch?v=DDm0M_rZLJo - Clonando interface do Nubank (+ ANIMAÇÕES) com React Native  
@@ -58,6 +73,7 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=VsU6p7DHVtA - React Native Web, Expo, React.memo, O Universo do React Native | #PR 04
 - [ ]  https://www.youtube.com/watch?v=AqJKAJ0TKms - Criando um PWA com React Native & Expo Web | Code/Drops #34
 - [ ]  https://www.youtube.com/watch?v=6uixYHh7XEc - Animações no React Native com Reanimated V2 | Code/Drops #45
+- [ ]  https://www.youtube.com/watch?v=EX48Yk_e2OE - Offline First: Apps que funcionam sem internet | Code/Drops #47
 
 ### Node.js:
 - [ ]  https://www.youtube.com/watch?v=c7P03kkrEG8 - Configurando VSCode para Node.js, ReactJS e React Native
@@ -81,6 +97,15 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=DiXbJL3iWVs - Node.js: Iniciando da teoria à prática | Masterclass #11
 - [ ]  https://www.youtube.com/watch?v=U7GjS3FuSkA - SQL no Node.js com Knex.js | Masterclass #13
 - [ ]  https://www.youtube.com/watch?v=YQr5CIRZ4Og - Micro Frontends, Node.js, Unform, StyleSheets, Styled-components, ORMs | #PR 13
+- [ ]  https://www.youtube.com/watch?v=_XU8hTHNcj8 - API em AdonisJS com ReactJS
+- [ ]  https://www.youtube.com/watch?v=3t78tTWt-JY - Behind the Code #01 - Autenticação no Adonis com TDD
+- [ ]  https://www.youtube.com/watch?v=R7WTFLM1lto - Behind the Code #02 - Recuperação de senha e envio de e-mail no Adonis
+- [ ]  https://www.youtube.com/watch?v=7yyW7z8fbB4 - Behind the Code #03 - Code review do app mobile
+- [ ]  https://www.youtube.com/watch?v=sB7GaMTJ7eI - Behind the Code #04 - CRUD de workshops
+- [ ]  https://www.youtube.com/watch?v=whDe_W-CtiU - Behind the Code #05 - Inscrição nos Workshops
+- [ ]  https://www.youtube.com/watch?v=rrvgngRairM - Behind the Code #06 - Feature de transcrição no Skylab
+- [ ]  https://www.youtube.com/watch?v=7HMlkIBRH60 - Escalando Aplicações para Milhões de Usuários na Rede Globo | Use Case #02
+- [ ]  https://www.youtube.com/watch?v=SXSKvUB9wDA - Pagamento com Stripe e Next.js SSG | Code Challenge
 
 ### Podcasts:
 - [x]  https://www.youtube.com/watch?v=ixbvCw-YiOA - AdonisJS, vale a pena utilizar? | Podcast FalaDev #01  
@@ -96,42 +121,18 @@ e os demais...
 
 #### Variados:
 - [ ]  https://www.youtube.com/watch?v=VwAYyXZk5as - Features do ES6, ES7 e ES8 produtivas
-- [ ]  https://www.youtube.com/watch?v=sYe4r8WXGQg - Controlando autenticação em rotas no ReactJS
-- [ ]  https://www.youtube.com/watch?v=_XU8hTHNcj8 - API em AdonisJS com ReactJS
 - [ ]  https://www.youtube.com/watch?v=TI4v4Y8yRjw - Style guides Javascript com ESLint, Prettier e EditorConfi
-- [ ]  https://www.youtube.com/watch?v=u99tNt3TZf8 - Desvendando o Redux na prática
-- [ ]  https://www.youtube.com/watch?v=6WB16wZS61c - React Hooks na prática
-- [ ]  https://www.youtube.com/watch?v=7L7MhxjI4PE - React Hooks + Redux
-- [ ]  https://www.youtube.com/watch?v=jcc9T-5inrk - Utilizando o Hook do useEffect
-- [ ]  https://www.youtube.com/watch?v=nznujk__7sQ - Criando app com Electron do zero!
 - [ ]  https://www.youtube.com/watch?v=rAzHvYnQ8DY - Array: Higher Order Functions
 - [ ]  https://www.youtube.com/watch?v=HN1UjzRSdBk - Desvendando o CSS Grid na prática
 - [ ]  https://www.youtube.com/watch?v=GSqR2i-Pq6o - Desvendando a variável this no Javascript
-- [ ]  https://www.youtube.com/watch?v=3t78tTWt-JY - Behind the Code #01 - Autenticação no Adonis com TDD
-- [ ]  https://www.youtube.com/watch?v=R7WTFLM1lto - Behind the Code #02 - Recuperação de senha e envio de e-mail no Adonis
-- [ ]  https://www.youtube.com/watch?v=7yyW7z8fbB4 - Behind the Code #03 - Code review do app mobile
-- [ ]  https://www.youtube.com/watch?v=sB7GaMTJ7eI - Behind the Code #04 - CRUD de workshops
-- [ ]  https://www.youtube.com/watch?v=whDe_W-CtiU - Behind the Code #05 - Inscrição nos Workshops
-- [ ]  https://www.youtube.com/watch?v=rrvgngRairM - Behind the Code #06 - Feature de transcrição no Skylab
-- [ ]  https://www.youtube.com/watch?v=GykTLqODQuU - Formulário Animado com JS puro e CSS Animation
 - [ ]  https://www.youtube.com/watch?v=vqrjFnq3-uo - Criando Player de Áudio com Javascript
-- [ ]  https://www.youtube.com/watch?v=erInHkjxkL8 - Padronizando mensagens de commit do Git | Code/Drops #12
-- [ ]  https://www.youtube.com/watch?v=jMWNNSx-mcU - Por que useCallback faz tanto sentido? | Code/Drops #13
-- [ ]  https://www.youtube.com/watch?v=sBA_SDhIPqQ - Utilizando React.memo | Code/Drops #18
-- [ ]  https://www.youtube.com/watch?v=IPLTUlRFxgo - Configurando CI em projeto open-source com Github Actions | Behind the Code #12
+- [ ]  https://www.youtube.com/watch?v=GykTLqODQuU - Formulário Animado com JS puro e CSS Animation
 - [ ]  https://www.youtube.com/watch?v=qaSwiYBC3sk - Features do ES2020 para o JavaScript | Code/Drops #20
-- [ ]  https://www.youtube.com/watch?v=j0MCdrqN8nU - UI Kit com React e Storybook | Code Challenge
-- [ ]  https://www.youtube.com/watch?v=SXSKvUB9wDA - Pagamento com Stripe e Next.js SSG | Code Challenge
-- [ ]  https://www.youtube.com/watch?v=EhnXaybirdA - Criando um projeto do zero para seu portfólio | Masterclass #14
-- [ ]  https://www.youtube.com/watch?v=vq9u5esgEoQ - Ferramentas Front-end e Back-end | Melhores Momentos S01
-- [ ]  https://www.youtube.com/watch?v=xYSDBevtEp0 - Recoil.js: Nova Biblioteca de Gerenciamento de Estado do Facebook para React | Code Challenge
-- [ ]  https://www.youtube.com/watch?v=zy-B9d2ZVrw - Navegador flutuante com ElectronJS | Code/Drops #30
-- [ ]  https://www.youtube.com/watch?v=7HMlkIBRH60 - Escalando Aplicações para Milhões de Usuários na Rede Globo | Use Case #02
 - [ ]  https://www.youtube.com/watch?v=6wn8hpUcEcM - Drag and Drop Raiz com a API do HTML, CSS e JavaScript | Masterclass #16
-- [ ]  https://www.youtube.com/watch?v=SrY8qV6UJ1M - Deploy de apps ReactJS para Google Cloud Storage (part. Guilherme Pellizzetti) | Masterclass #17
+- [ ]  https://www.youtube.com/watch?v=nznujk__7sQ - Criando app com Electron do zero!
+- [ ]  https://www.youtube.com/watch?v=erInHkjxkL8 - Padronizando mensagens de commit do Git | Code/Drops #12
+- [ ]  https://www.youtube.com/watch?v=IPLTUlRFxgo - Configurando CI em projeto open-source com Github Actions | Behind the Code #12
+- [ ]  https://www.youtube.com/watch?v=EhnXaybirdA - Criando um projeto do zero para seu portfólio | Masterclass #14
+- [ ]  https://www.youtube.com/watch?v=zy-B9d2ZVrw - Navegador flutuante com ElectronJS | Code/Drops #30
 - [ ]  https://www.youtube.com/watch?v=Ln926XT33RM - Estou criando uma GUI de Redis com Electron | Code/Drops #36
-- [ ]  https://www.youtube.com/watch?v=Pbs1VIwPoRA - Consumindo APIs no React com SWR | Code/Drops #38
-- [ ]  https://www.youtube.com/watch?v=vYlz3SmNXQQ - Consumindo API no Front e no Back-end | CodeDrops #45
 - [ ]  https://www.youtube.com/watch?v=K5yYBJhix5A - Extraindo dados de outros sites com Puppeteer JS | Code/Drops #46
-- [ ]  https://www.youtube.com/watch?v=EX48Yk_e2OE - Offline First: Apps que funcionam sem internet | Code/Drops #47
-- [ ]  https://www.youtube.com/watch?v=6TEo2AxW-oQ - Aplicações React do futuro? UI declarativas, design system e frameworks | Code/Drops #48
