@@ -28,7 +28,6 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=f9zdYWnuPzc - MVP de micro-serviço com TypeScript, Mongo e TDD | Behind the Code #10  
 
 ### React
-- [ ]  https://www.youtube.com/watch?v=vq9u5esgEoQ - Ferramentas Front-end e Back-end | Melhores Momentos S01
 - [ ]  https://www.youtube.com/watch?v=6WB16wZS61c - React Hooks na prática
 - [ ]  https://www.youtube.com/watch?v=u99tNt3TZf8 - Desvendando o Redux na prática
 - [ ]  https://www.youtube.com/watch?v=sYe4r8WXGQg - Controlando autenticação em rotas no ReactJS
@@ -36,6 +35,9 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=sBA_SDhIPqQ - Utilizando React.memo | Code/Drops #18
 - [ ]  https://www.youtube.com/watch?v=jcc9T-5inrk - Utilizando o Hook do useEffect
 - [ ]  https://www.youtube.com/watch?v=jMWNNSx-mcU - Por que useCallback faz tanto sentido? | Code/Drops #13
+- [ ]  https://www.youtube.com/watch?v=smWR_SxdeUU - Iniciando com GraphQL no React/React Native
+- [ ]  https://www.youtube.com/watch?v=KISMYYXSIX8 - Autenticação no React Native / ReactJS com Context API & Hooks | Masterclass #12
+- [ ]  https://www.youtube.com/watch?v=VsU6p7DHVtA - React Native Web, Expo, React.memo, O Universo do React Native | #PR 04
 - [ ]  https://www.youtube.com/watch?v=j0MCdrqN8nU - UI Kit com React e Storybook | Code Challenge
 - [ ]  https://www.youtube.com/watch?v=xYSDBevtEp0 - Recoil.js: Nova Biblioteca de Gerenciamento de Estado do Facebook para React | Code Challenge
 - [ ]  https://www.youtube.com/watch?v=Pbs1VIwPoRA - Consumindo APIs no React com SWR | Code/Drops #38
@@ -55,7 +57,6 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=bJVp_vlvMwQ - Interface da Twitch.tv | UI Clone  
 
 ### React Native:
-- [ ]  https://www.youtube.com/watch?v=smWR_SxdeUU - Iniciando com GraphQL no React/React Native
 - [ ]  https://www.youtube.com/watch?v=fBrOtR3pgPU - Consumindo API REST com React Native (CRUD)
 - [ ]  https://www.youtube.com/watch?v=hs3N1pYSgig - Fila de ações offline first no React Native com Redux Saga
 - [ ]  https://www.youtube.com/watch?v=jm6aECNugeM - Quick actions (3D/Force touch) no React Native
@@ -65,8 +66,6 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=X2RKRKdqqwM - Code/Drops #02 - Estrutura de pastas para ReactJS/React Native
 - [ ]  https://www.youtube.com/watch?v=V3QGW2PgKKY - Code/Drops #04 - Animações do After Effects no React Native com Lottie
 - [ ]  https://www.youtube.com/watch?v=wYMvzbfBdYI - Gerando APK (Android) e IPA (iOS) com React Native & Expo | Code/Drops #15
-- [ ]  https://www.youtube.com/watch?v=KISMYYXSIX8 - Autenticação no React Native / ReactJS com Context API & Hooks | Masterclass #12
-- [ ]  https://www.youtube.com/watch?v=VsU6p7DHVtA - React Native Web, Expo, React.memo, O Universo do React Native | #PR 04
 - [ ]  https://www.youtube.com/watch?v=AqJKAJ0TKms - Criando um PWA com React Native & Expo Web | Code/Drops #34
 - [ ]  https://www.youtube.com/watch?v=6uixYHh7XEc - Animações no React Native com Reanimated V2 | Code/Drops #45
 - [ ]  https://www.youtube.com/watch?v=EX48Yk_e2OE - Offline First: Apps que funcionam sem internet | Code/Drops #47
@@ -105,6 +104,7 @@ e os demais...
 
 ### Podcasts:
 - [x]  https://www.youtube.com/watch?v=ixbvCw-YiOA - AdonisJS, vale a pena utilizar? | Podcast FalaDev #01  
+- [ ]  https://podtag.com.br/tag-42-node           - Node.js em 2020
 - [ ]  https://www.youtube.com/watch?v=YPZehcsu9D0 - Sequelize e estratégias de SQL no Node.js | Podcast FalaDev #06  
 - [ ]  https://www.youtube.com/watch?v=9qVpnT97Mxw - GraphQL e REST, a situação atual do mercado | Podcast FalaDev #07  
 - [ ]  https://www.youtube.com/watch?v=py6vHgL6saw - Testes no back-end, TDD e estratégias | Podcast FalaDev #10  
@@ -116,6 +116,7 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=mZrt5R9eZzM - Estratégias de autenticação, JWT, OAuth, qual usar? | Podcast FalaDev #21
 
 ### Padrões/Setup/Features
+- [ ]  https://www.youtube.com/watch?v=vq9u5esgEoQ - Ferramentas Front-end e Back-end | Melhores Momentos S01
 - [ ]  https://www.youtube.com/watch?v=VwAYyXZk5as - Features do ES6, ES7 e ES8 produtivas
 - [ ]  https://www.youtube.com/watch?v=vAV4Vy4jfkc - Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44  
 - [ ]  https://www.youtube.com/watch?v=rCeGfFk-uCk - Setup para apps Node.js (TypeScript, ESLint, Jest, Babel) | Code/Drops #33  
