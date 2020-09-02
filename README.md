@@ -17,19 +17,15 @@ e os demais...
 - [ ] https://www.udemy.com/course/javascript-curso-completo/ -  JavaScript - Curso COMPLETO com 6 Projetos REAIS (Clones whatsapp e dropbox)  
 
 ### Typescript:
-- [ ]  https://www.youtube.com/watch?v=ShnSc0DD1z4 - TypeScript vale a pena? JavaScript perde sentido? | Podcast FalaDev #22  
+- [ ]  https://www.youtube.com/watch?v=sEE-3P9kKyE - Typescript, Carreira & AdonisJS | #PR 01  
 - [ ]  https://www.youtube.com/watch?v=0mYq5LrQN1s - TypeScript, o início, de forma prática | MasterClass #07  
+- [ ]  https://www.youtube.com/watch?v=GOB-lawExXc - React Hooks com TypeScript | Masterclass #04  
 - [ ]  https://www.youtube.com/watch?v=aTf8QTjw4RE - TypeScript com NodeJS do jeito certo!  
 - [ ]  https://www.youtube.com/watch?v=OXxul6AvXNs - TypeScript com ReactJS, Redux e Redux Saga  
-- [ ]  https://www.youtube.com/watch?v=GOB-lawExXc - React Hooks com TypeScript | Masterclass #04  
-- [ ]  https://www.youtube.com/watch?v=f9zdYWnuPzc - MVP de micro-serviço com TypeScript, Mongo e TDD | Behind the Code #10  
 - [ ]  https://www.youtube.com/watch?v=ItEgNda8ApY - Adonis v5, adição de TypeScript e mais | Code/Drops #21  
-- [ ]  https://www.youtube.com/watch?v=2DJtGCesOr4 - Envio de e-mails em massa com Amazon SES, Node.js, TypeScript e Redis | Behind the Code #11  
-- [ ]  https://www.youtube.com/watch?v=sEE-3P9kKyE - Typescript, Carreira & AdonisJS | #PR 01  
-- [ ]  https://www.youtube.com/watch?v=rCeGfFk-uCk - Setup para apps Node.js (TypeScript, ESLint, Jest, Babel) | Code/Drops #33  
-- [ ]  https://www.youtube.com/watch?v=vAV4Vy4jfkc - Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44  
 - [ ]  https://www.youtube.com/watch?v=1nVUfZg2dSA - Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components | Code/Drops #50  
 - [ ]  https://www.youtube.com/watch?v=EXpct54Vc5A - Pesquisa e Elaboração de Conteúdo, Typescript 4.0 e VueJS 3.0, React Context X Redux | #PR 16  
+- [ ]  https://www.youtube.com/watch?v=f9zdYWnuPzc - MVP de micro-serviço com TypeScript, Mongo e TDD | Behind the Code #10  
 
 ### React
 - [ ]  https://www.youtube.com/watch?v=vq9u5esgEoQ - Ferramentas Front-end e Back-end | Melhores Momentos S01
@@ -119,19 +115,25 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=_J7LJlJ7UC8 - CI/CD com React Native, ferramentas e estratégias | Podcast FalaDev #20
 - [ ]  https://www.youtube.com/watch?v=mZrt5R9eZzM - Estratégias de autenticação, JWT, OAuth, qual usar? | Podcast FalaDev #21
 
-#### Variados:
+### Padrões/Setup/Features
 - [ ]  https://www.youtube.com/watch?v=VwAYyXZk5as - Features do ES6, ES7 e ES8 produtivas
+- [ ]  https://www.youtube.com/watch?v=vAV4Vy4jfkc - Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44  
+- [ ]  https://www.youtube.com/watch?v=rCeGfFk-uCk - Setup para apps Node.js (TypeScript, ESLint, Jest, Babel) | Code/Drops #33  
 - [ ]  https://www.youtube.com/watch?v=TI4v4Y8yRjw - Style guides Javascript com ESLint, Prettier e EditorConfi
+- [ ]  https://www.youtube.com/watch?v=qaSwiYBC3sk - Features do ES2020 para o JavaScript | Code/Drops #20
+- [ ]  https://www.youtube.com/watch?v=erInHkjxkL8 - Padronizando mensagens de commit do Git | Code/Drops #12
+- [ ]  https://www.youtube.com/watch?v=IPLTUlRFxgo - Configurando CI em projeto open-source com Github Actions | Behind the Code #12
+
+
+### Variados:
+- [ ]  https://www.youtube.com/watch?v=2DJtGCesOr4 - Envio de e-mails em massa com Amazon SES, Node.js, TypeScript e Redis | Behind the Code #11  
 - [ ]  https://www.youtube.com/watch?v=rAzHvYnQ8DY - Array: Higher Order Functions
 - [ ]  https://www.youtube.com/watch?v=HN1UjzRSdBk - Desvendando o CSS Grid na prática
 - [ ]  https://www.youtube.com/watch?v=GSqR2i-Pq6o - Desvendando a variável this no Javascript
 - [ ]  https://www.youtube.com/watch?v=vqrjFnq3-uo - Criando Player de Áudio com Javascript
 - [ ]  https://www.youtube.com/watch?v=GykTLqODQuU - Formulário Animado com JS puro e CSS Animation
-- [ ]  https://www.youtube.com/watch?v=qaSwiYBC3sk - Features do ES2020 para o JavaScript | Code/Drops #20
 - [ ]  https://www.youtube.com/watch?v=6wn8hpUcEcM - Drag and Drop Raiz com a API do HTML, CSS e JavaScript | Masterclass #16
 - [ ]  https://www.youtube.com/watch?v=nznujk__7sQ - Criando app com Electron do zero!
-- [ ]  https://www.youtube.com/watch?v=erInHkjxkL8 - Padronizando mensagens de commit do Git | Code/Drops #12
-- [ ]  https://www.youtube.com/watch?v=IPLTUlRFxgo - Configurando CI em projeto open-source com Github Actions | Behind the Code #12
 - [ ]  https://www.youtube.com/watch?v=EhnXaybirdA - Criando um projeto do zero para seu portfólio | Masterclass #14
 - [ ]  https://www.youtube.com/watch?v=zy-B9d2ZVrw - Navegador flutuante com ElectronJS | Code/Drops #30
 - [ ]  https://www.youtube.com/watch?v=Ln926XT33RM - Estou criando uma GUI de Redis com Electron | Code/Drops #36
