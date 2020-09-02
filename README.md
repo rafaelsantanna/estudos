@@ -114,7 +114,7 @@ e os demais...
 
 ### Podcasts:
 - [x]  https://www.youtube.com/watch?v=ixbvCw-YiOA - AdonisJS, vale a pena utilizar? | Podcast FalaDev #01  
-- [ ]  https://podtag.com.br/tag-42-node           - Node.js em 2020
+- [x]  https://podtag.com.br/tag-42-node           - Node.js em 2020
 - [ ]  https://www.youtube.com/watch?v=YPZehcsu9D0 - Sequelize e estratégias de SQL no Node.js | Podcast FalaDev #06  
 - [ ]  https://www.youtube.com/watch?v=9qVpnT97Mxw - GraphQL e REST, a situação atual do mercado | Podcast FalaDev #07  
 - [ ]  https://www.youtube.com/watch?v=py6vHgL6saw - Testes no back-end, TDD e estratégias | Podcast FalaDev #10  
