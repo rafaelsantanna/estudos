@@ -12,10 +12,6 @@ e os demais...
 - [ ] 11  
 - [ ] NLW
 
-### Udemy:
-- [ ] https://www.udemy.com/course/js-com-tdd-na-pratica/ -  JS com TDD na Prática  
-- [ ] https://www.udemy.com/course/javascript-curso-completo/ -  JavaScript - Curso COMPLETO com 6 Projetos REAIS (Clones whatsapp e dropbox)  
-
 ### Typescript:
 - [ ]  https://www.youtube.com/watch?v=sEE-3P9kKyE - Typescript, Carreira & AdonisJS | #PR 01  
 - [ ]  https://www.youtube.com/watch?v=0mYq5LrQN1s - TypeScript, o início, de forma prática | MasterClass #07  
@@ -54,6 +50,9 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=qaSwiYBC3sk - Features do ES2020 para o JavaScript | Code/Drops #20
 - [ ]  https://www.youtube.com/watch?v=erInHkjxkL8 - Padronizando mensagens de commit do Git | Code/Drops #12
 - [ ]  https://www.youtube.com/watch?v=IPLTUlRFxgo - Configurando CI em projeto open-source com Github Actions | Behind the Code #12
+
+### Udemy:
+- [ ] https://www.udemy.com/course/js-com-tdd-na-pratica/ -  JS com TDD na Prática  
 
 ### UI Clones:
 - [ ]  https://www.youtube.com/watch?v=bg-U0xZwcRk - Clonando interface do Uber com React Native  
