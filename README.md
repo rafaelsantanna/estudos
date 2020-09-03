@@ -14,9 +14,8 @@ e os demais...
 
 ### Typescript:
 - [ ]  https://www.youtube.com/watch?v=sEE-3P9kKyE - Typescript, Carreira & AdonisJS | #PR 01  
+- [x]  https://www.youtube.com/watch?v=GOB-lawExXc - React Hooks com TypeScript | Masterclass #04  
 - [ ]  https://www.youtube.com/watch?v=0mYq5LrQN1s - TypeScript, o início, de forma prática | MasterClass #07  
-- [ ]  https://www.youtube.com/watch?v=GOB-lawExXc - React Hooks com TypeScript | Masterclass #04  
-- [ ]  https://www.youtube.com/watch?v=aTf8QTjw4RE - TypeScript com NodeJS do jeito certo!  
 - [ ]  https://www.youtube.com/watch?v=OXxul6AvXNs - TypeScript com ReactJS, Redux e Redux Saga  
 - [ ]  https://www.youtube.com/watch?v=ItEgNda8ApY - Adonis v5, adição de TypeScript e mais | Code/Drops #21  
 - [ ]  https://www.youtube.com/watch?v=1nVUfZg2dSA - Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components | Code/Drops #50  
@@ -93,6 +92,7 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=rrvgngRairM - Behind the Code #06 - Feature de transcrição no Skylab
 - [ ]  https://www.youtube.com/watch?v=DiXbJL3iWVs - Node.js: Iniciando da teoria à prática | Masterclass #11
 - [ ]  https://www.youtube.com/watch?v=_XU8hTHNcj8 - API em AdonisJS com ReactJS
+- [ ]  https://www.youtube.com/watch?v=aTf8QTjw4RE - TypeScript com NodeJS do jeito certo!  
 - [ ]  https://www.youtube.com/watch?v=-jXfKDYJJvo - Chat em tempo real com NodeJS + Socket.io
 - [ ]  https://www.youtube.com/watch?v=MkkbUfcZUZM - Upload de arquivos: back-end com NodeJS
 - [ ]  https://www.youtube.com/watch?v=G5UZmvkLWSQ - Upload de arquivos: front-end com ReactJS
