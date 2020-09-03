@@ -13,8 +13,8 @@ e os demais...
 - [ ] NLW
 
 ### Typescript:
-- [ ]  https://www.youtube.com/watch?v=sEE-3P9kKyE - Typescript, Carreira & AdonisJS | #PR 01  
-- [x]  https://www.youtube.com/watch?v=GOB-lawExXc - React Hooks com TypeScript | Masterclass #04  
+- [x]  https://www.youtube.com/watch?v=sEE-3P9kKyE - Typescript, Carreira & AdonisJS | #PR 01  
+- [ ]  https://www.youtube.com/watch?v=GOB-lawExXc - React Hooks com TypeScript | Masterclass #04  
 - [ ]  https://www.youtube.com/watch?v=0mYq5LrQN1s - TypeScript, o início, de forma prática | MasterClass #07  
 - [ ]  https://www.youtube.com/watch?v=OXxul6AvXNs - TypeScript com ReactJS, Redux e Redux Saga  
 - [ ]  https://www.youtube.com/watch?v=ItEgNda8ApY - Adonis v5, adição de TypeScript e mais | Code/Drops #21  
