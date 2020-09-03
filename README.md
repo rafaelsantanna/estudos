@@ -14,8 +14,8 @@ e os demais...
 
 ### Typescript:
 - [x]  https://www.youtube.com/watch?v=sEE-3P9kKyE - Typescript, Carreira & AdonisJS | #PR 01  
-- [ ]  https://www.youtube.com/watch?v=GOB-lawExXc - /react/TS-1 | React Hooks com TypeScript | Masterclass #04  
-- [ ]  https://www.youtube.com/watch?v=0mYq5LrQN1s - TypeScript, o início, de forma prática | MasterClass #07  
+- [x]  https://www.youtube.com/watch?v=GOB-lawExXc - React Hooks com TypeScript | Masterclass #04  
+- [ ]  https://www.youtube.com/watch?v=0mYq5LrQN1s - /react/TS-1 | TypeScript, o início, de forma prática | MasterClass #07  
 - [ ]  https://www.youtube.com/watch?v=OXxul6AvXNs - TypeScript com ReactJS, Redux e Redux Saga  
 - [ ]  https://www.youtube.com/watch?v=ItEgNda8ApY - Adonis v5, adição de TypeScript e mais | Code/Drops #21  
 - [ ]  https://www.youtube.com/watch?v=1nVUfZg2dSA - Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components | Code/Drops #50  
