@@ -15,14 +15,15 @@ e os demais...
 ### Typescript:
 - [x]  https://www.youtube.com/watch?v=sEE-3P9kKyE - Typescript, Carreira & AdonisJS | #PR 01  
 - [x]  https://www.youtube.com/watch?v=GOB-lawExXc - React Hooks com TypeScript | Masterclass #04  
+- [x]  https://www.youtube.com/watch?v=EXpct54Vc5A - Pesquisa e Elaboração de Conteúdo, Typescript 4.0 e VueJS 3.0, React Context X Redux | #PR 16  
 - [ ]  https://www.youtube.com/watch?v=0mYq5LrQN1s - /react/TS-1 | TypeScript, o início, de forma prática | MasterClass #07  
 - [ ]  https://www.youtube.com/watch?v=OXxul6AvXNs - TypeScript com ReactJS, Redux e Redux Saga  
 - [ ]  https://www.youtube.com/watch?v=ItEgNda8ApY - Adonis v5, adição de TypeScript e mais | Code/Drops #21  
 - [ ]  https://www.youtube.com/watch?v=1nVUfZg2dSA - Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components | Code/Drops #50  
-- [ ]  https://www.youtube.com/watch?v=EXpct54Vc5A - Pesquisa e Elaboração de Conteúdo, Typescript 4.0 e VueJS 3.0, React Context X Redux | #PR 16  
 - [ ]  https://www.youtube.com/watch?v=f9zdYWnuPzc - MVP de micro-serviço com TypeScript, Mongo e TDD | Behind the Code #10  
 
 ### React
+- [ ]  https://www.youtube.com/watch?v=VsU6p7DHVtA - React Native Web, Expo, React.memo, O Universo do React Native | #PR 04
 - [ ]  https://www.youtube.com/watch?v=6WB16wZS61c - React Hooks na prática
 - [ ]  https://www.youtube.com/watch?v=u99tNt3TZf8 - Desvendando o Redux na prática
 - [ ]  https://www.youtube.com/watch?v=sYe4r8WXGQg - Controlando autenticação em rotas no ReactJS
@@ -32,7 +33,6 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=jMWNNSx-mcU - Por que useCallback faz tanto sentido? | Code/Drops #13
 - [ ]  https://www.youtube.com/watch?v=smWR_SxdeUU - Iniciando com GraphQL no React/React Native
 - [ ]  https://www.youtube.com/watch?v=KISMYYXSIX8 - Autenticação no React Native / ReactJS com Context API & Hooks | Masterclass #12
-- [ ]  https://www.youtube.com/watch?v=VsU6p7DHVtA - React Native Web, Expo, React.memo, O Universo do React Native | #PR 04
 - [ ]  https://www.youtube.com/watch?v=j0MCdrqN8nU - UI Kit com React e Storybook | Code Challenge
 - [ ]  https://www.youtube.com/watch?v=xYSDBevtEp0 - Recoil.js: Nova Biblioteca de Gerenciamento de Estado do Facebook para React | Code Challenge
 - [ ]  https://www.youtube.com/watch?v=Pbs1VIwPoRA - Consumindo APIs no React com SWR | Code/Drops #38
@@ -80,6 +80,7 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=EX48Yk_e2OE - Offline First: Apps que funcionam sem internet | Code/Drops #47
 
 ### Node.js:
+- [ ]  https://www.youtube.com/watch?v=YQr5CIRZ4Og - Micro Frontends, Node.js, Unform, StyleSheets, Styled-components, ORMs | #PR 13
 - [ ]  https://www.youtube.com/watch?v=BN_8bCfVp88 - [API NodeJS + Express + Mongo] Estrutura e cadastro
 - [ ]  https://www.youtube.com/watch?v=KKTX1l3sZGk - [API NodeJS + Express + Mongo] Autenticação
 - [ ]  https://www.youtube.com/watch?v=Zwdv9RllPqU - [API NodeJS + Express + Mongo] Recuperação de senha com NodeMailer
@@ -107,7 +108,6 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=Fbu7z5dXcRs - Masterclass #01 - SQL no Node.js com Sequelize
 - [ ]  https://www.youtube.com/watch?v=uonKHztGhko - Background jobs (filas) no Node.js com Redis | Masterclass #02
 - [ ]  https://www.youtube.com/watch?v=U7GjS3FuSkA - SQL no Node.js com Knex.js | Masterclass #13
-- [ ]  https://www.youtube.com/watch?v=YQr5CIRZ4Og - Micro Frontends, Node.js, Unform, StyleSheets, Styled-components, ORMs | #PR 13
 - [ ]  https://www.youtube.com/watch?v=7HMlkIBRH60 - Escalando Aplicações para Milhões de Usuários na Rede Globo | Use Case #02
 - [ ]  https://www.youtube.com/watch?v=SXSKvUB9wDA - Pagamento com Stripe e Next.js SSG | Code Challenge
 
