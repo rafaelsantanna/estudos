@@ -114,15 +114,16 @@ e os demais...
 ### Podcasts:
 - [x]  https://www.youtube.com/watch?v=ixbvCw-YiOA - AdonisJS, vale a pena utilizar? | Podcast FalaDev #01  
 - [x]  https://podtag.com.br/tag-42-node           - Node.js em 2020
-- [ ]  https://www.youtube.com/watch?v=YPZehcsu9D0 - Sequelize e estratégias de SQL no Node.js | Podcast FalaDev #06  
-- [ ]  https://www.youtube.com/watch?v=9qVpnT97Mxw - GraphQL e REST, a situação atual do mercado | Podcast FalaDev #07  
-- [ ]  https://www.youtube.com/watch?v=py6vHgL6saw - Testes no back-end, TDD e estratégias | Podcast FalaDev #10  
-- [ ]  https://www.youtube.com/watch?v=L0zuZYh800Q - Boas práticas no front-end, técnicas e estratégias | Podcast FalaDev #12  
-- [ ]  https://www.youtube.com/watch?v=NXqgPWqwApY - Hospedagem para Node.js, dicas e técnicas | Podcast FalaDev #14  
-- [ ]  https://www.youtube.com/watch?v=U2eMpo4e9LM - Offline First no React Native, como aplicar? | Podcast FalaDev #17
-- [ ]  https://www.youtube.com/watch?v=QBenZ7xpZds - Documentando uma API RESTful, ferramentas e timing | Podcast FalaDev #18
-- [ ]  https://www.youtube.com/watch?v=_J7LJlJ7UC8 - CI/CD com React Native, ferramentas e estratégias | Podcast FalaDev #20
+- [x]  https://www.youtube.com/watch?v=L0zuZYh800Q - Boas práticas no front-end, técnicas e estratégias | Podcast FalaDev #12  
 - [ ]  https://www.youtube.com/watch?v=mZrt5R9eZzM - Estratégias de autenticação, JWT, OAuth, qual usar? | Podcast FalaDev #21
+- [ ]  https://www.youtube.com/watch?v=9qVpnT97Mxw - GraphQL e REST, a situação atual do mercado | Podcast FalaDev #07  
+- [ ]  https://www.youtube.com/watch?v=QBenZ7xpZds - Documentando uma API RESTful, ferramentas e timing | Podcast FalaDev #18
+- [ ]  https://www.youtube.com/watch?v=U2eMpo4e9LM - Offline First no React Native, como aplicar? | Podcast FalaDev #17
+- [ ]  https://www.youtube.com/watch?v=_J7LJlJ7UC8 - CI/CD com React Native, ferramentas e estratégias | Podcast FalaDev #20
+- [ ]  https://www.youtube.com/watch?v=NXqgPWqwApY - Hospedagem para Node.js, dicas e técnicas | Podcast FalaDev #14  
+- [ ]  https://www.youtube.com/watch?v=py6vHgL6saw - Testes no back-end, TDD e estratégias | Podcast FalaDev #10  
+- [ ]  https://www.youtube.com/watch?v=YPZehcsu9D0 - Sequelize e estratégias de SQL no Node.js | Podcast FalaDev #06  
+
 
 ### Variados:
 - [ ]  https://www.youtube.com/watch?v=2DJtGCesOr4 - Envio de e-mails em massa com Amazon SES, Node.js, TypeScript e Redis | Behind the Code #11  
