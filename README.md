@@ -132,8 +132,5 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=vqrjFnq3-uo - Criando Player de Áudio com Javascript
 - [ ]  https://www.youtube.com/watch?v=GykTLqODQuU - Formulário Animado com JS puro e CSS Animation
 - [ ]  https://www.youtube.com/watch?v=6wn8hpUcEcM - Drag and Drop Raiz com a API do HTML, CSS e JavaScript | Masterclass #16
-- [ ]  https://www.youtube.com/watch?v=nznujk__7sQ - Criando app com Electron do zero!
 - [ ]  https://www.youtube.com/watch?v=EhnXaybirdA - Criando um projeto do zero para seu portfólio | Masterclass #14
-- [ ]  https://www.youtube.com/watch?v=zy-B9d2ZVrw - Navegador flutuante com ElectronJS | Code/Drops #30
-- [ ]  https://www.youtube.com/watch?v=Ln926XT33RM - Estou criando uma GUI de Redis com Electron | Code/Drops #36
 - [ ]  https://www.youtube.com/watch?v=K5yYBJhix5A - Extraindo dados de outros sites com Puppeteer JS | Code/Drops #46
