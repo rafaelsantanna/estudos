@@ -115,7 +115,7 @@ e os demais...
 - [x]  https://www.youtube.com/watch?v=ixbvCw-YiOA - AdonisJS, vale a pena utilizar? | Podcast FalaDev #01  
 - [x]  https://podtag.com.br/tag-42-node           - Node.js em 2020
 - [x]  https://www.youtube.com/watch?v=L0zuZYh800Q - Boas práticas no front-end, técnicas e estratégias | Podcast FalaDev #12  
-- [ ]  https://www.youtube.com/watch?v=mZrt5R9eZzM - Estratégias de autenticação, JWT, OAuth, qual usar? | Podcast FalaDev #21
+- [x]  https://www.youtube.com/watch?v=mZrt5R9eZzM - Estratégias de autenticação, JWT, OAuth, qual usar? | Podcast FalaDev #21
 - [ ]  https://www.youtube.com/watch?v=9qVpnT97Mxw - GraphQL e REST, a situação atual do mercado | Podcast FalaDev #07  
 - [ ]  https://www.youtube.com/watch?v=QBenZ7xpZds - Documentando uma API RESTful, ferramentas e timing | Podcast FalaDev #18
 - [ ]  https://www.youtube.com/watch?v=U2eMpo4e9LM - Offline First no React Native, como aplicar? | Podcast FalaDev #17
