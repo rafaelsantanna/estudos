@@ -17,10 +17,7 @@ e os demais...
 - [x]  https://www.youtube.com/watch?v=GOB-lawExXc - React Hooks com TypeScript | Masterclass #04  
 - [x]  https://www.youtube.com/watch?v=EXpct54Vc5A - Pesquisa e Elaboração de Conteúdo, Typescript 4.0 e VueJS 3.0, React Context X Redux | #PR 16  
 - [ ]  https://www.youtube.com/watch?v=OXxul6AvXNs - /react/ts-1 TypeScript com ReactJS, Redux e Redux Saga  
-- [ ]  https://www.youtube.com/watch?v=1nVUfZg2dSA - Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components | Code/Drops #50  
-- [ ]  https://www.youtube.com/watch?v=ItEgNda8ApY - Adonis v5, adição de TypeScript e mais | Code/Drops #21  
-- [ ]  https://www.youtube.com/watch?v=0mYq5LrQN1s - /node/TS-1 | TypeScript, o início, de forma prática | MasterClass #07  
-- [ ]  https://www.youtube.com/watch?v=f9zdYWnuPzc - MVP de micro-serviço com TypeScript, Mongo e TDD | Behind the Code #10  
+- [ ]  https://www.youtube.com/watch?v=1nVUfZg2dSA - Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components | Code/Drops #50    
 
 ### React
 - [ ]  https://www.youtube.com/watch?v=VsU6p7DHVtA - React Native Web, Expo, React.memo, O Universo do React Native | #PR 04
@@ -80,6 +77,9 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=EX48Yk_e2OE - Offline First: Apps que funcionam sem internet | Code/Drops #47
 
 ### Node.js:
+- [ ]  https://www.youtube.com/watch?v=ItEgNda8ApY - Adonis v5, adição de TypeScript e mais | Code/Drops #21  
+- [ ]  https://www.youtube.com/watch?v=0mYq5LrQN1s - /node/TS-1 | TypeScript, o início, de forma prática | MasterClass #07  
+- [ ]  https://www.youtube.com/watch?v=f9zdYWnuPzc - MVP de micro-serviço com TypeScript, Mongo e TDD | Behind the Code #10
 - [ ]  https://www.youtube.com/watch?v=YQr5CIRZ4Og - Micro Frontends, Node.js, Unform, StyleSheets, Styled-components, ORMs | #PR 13
 - [ ]  https://www.youtube.com/watch?v=BN_8bCfVp88 - [API NodeJS + Express + Mongo] Estrutura e cadastro
 - [ ]  https://www.youtube.com/watch?v=KKTX1l3sZGk - [API NodeJS + Express + Mongo] Autenticação
