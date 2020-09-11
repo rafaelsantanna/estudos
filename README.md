@@ -16,7 +16,6 @@ e os demais...
 - [x]  https://www.youtube.com/watch?v=sEE-3P9kKyE - Typescript, Carreira & AdonisJS | #PR 01  
 - [x]  https://www.youtube.com/watch?v=GOB-lawExXc - React Hooks com TypeScript | Masterclass #04  
 - [x]  https://www.youtube.com/watch?v=EXpct54Vc5A - Pesquisa e Elaboração de Conteúdo, Typescript 4.0 e VueJS 3.0, React Context X Redux | #PR 16  
-- [ ]  https://www.youtube.com/watch?v=OXxul6AvXNs - /react/tsreact TypeScript com ReactJS, Redux e Redux Saga  
 - [ ]  https://www.youtube.com/watch?v=1nVUfZg2dSA - Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components | Code/Drops #50    
 
 ### React
