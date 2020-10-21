@@ -21,7 +21,7 @@ e os demais...
 ### React
 - [x]  https://www.youtube.com/watch?v=VsU6p7DHVtA - React Native Web, Expo, React.memo, O Universo do React Native | #PR 04
 - [ ]  https://www.youtube.com/watch?v=u99tNt3TZf8 - Desvendando o Redux na prática
-- [ ]  https://www.youtube.com/watch?v=sYe4r8WXGQg - Controlando autenticação em rotas no ReactJS
+- [x]  https://www.youtube.com/watch?v=sYe4r8WXGQg - Controlando autenticação em rotas no ReactJS
 - [x]  https://www.youtube.com/watch?v=7L7MhxjI4PE - React Hooks + Redux
 - [ ]  https://www.youtube.com/watch?v=sBA_SDhIPqQ - Utilizando React.memo | Code/Drops #18
 - [ ]  https://www.youtube.com/watch?v=jcc9T-5inrk - Utilizando o Hook do useEffect
