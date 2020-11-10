@@ -8,9 +8,6 @@ e os demais...
 ### Omnistack
 - [x] 8 Clone Tinder
 - [x] 9 Clone Airbnb 
-- [ ] 10 Find Devs
-- [ ] 11  
-- [ ] NLW
 
 ### Typescript:
 - [x]  https://www.youtube.com/watch?v=sEE-3P9kKyE - Typescript, Carreira & AdonisJS | #PR 01  
@@ -24,14 +21,9 @@ e os demais...
 - [x]  https://www.youtube.com/watch?v=sYe4r8WXGQg - Controlando autenticação em rotas no ReactJS
 - [x]  https://www.youtube.com/watch?v=7L7MhxjI4PE - React Hooks + Redux
 - [ ]  https://www.youtube.com/watch?v=sBA_SDhIPqQ - Utilizando React.memo | Code/Drops #18
-- [ ]  https://www.youtube.com/watch?v=jcc9T-5inrk - Utilizando o Hook do useEffect
-- [ ]  https://www.youtube.com/watch?v=jMWNNSx-mcU - Por que useCallback faz tanto sentido? | Code/Drops #13
 - [ ]  https://www.youtube.com/watch?v=smWR_SxdeUU - Iniciando com GraphQL no React/React Native
 - [ ]  https://www.youtube.com/watch?v=KISMYYXSIX8 - Autenticação no React Native / ReactJS com Context API & Hooks | Masterclass #12
 - [ ]  https://www.youtube.com/watch?v=j0MCdrqN8nU - UI Kit com React e Storybook | Code Challenge
-- [ ]  https://www.youtube.com/watch?v=xYSDBevtEp0 - Recoil.js: Nova Biblioteca de Gerenciamento de Estado do Facebook para React | Code Challenge
-- [ ]  https://www.youtube.com/watch?v=Pbs1VIwPoRA - Consumindo APIs no React com SWR | Code/Drops #38
-- [ ]  https://www.youtube.com/watch?v=vYlz3SmNXQQ - Consumindo API no Front e no Back-end | CodeDrops #45
 - [ ]  https://www.youtube.com/watch?v=6TEo2AxW-oQ - Aplicações React do futuro? UI declarativas, design system e frameworks | Code/Drops #48
 
 ### Padrões/Setup/Features
@@ -39,8 +31,6 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=vq9u5esgEoQ - Ferramentas Front-end e Back-end | Melhores Momentos S01
 - [ ]  https://www.youtube.com/watch?v=VwAYyXZk5as - Features do ES6, ES7 e ES8 produtivas
 - [ ]  https://www.youtube.com/watch?v=vAV4Vy4jfkc - Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44  
-- [ ]  https://www.youtube.com/watch?v=rCeGfFk-uCk - Setup para apps Node.js (TypeScript, ESLint, Jest, Babel) | Code/Drops #33  
-- [ ]  https://www.youtube.com/watch?v=TI4v4Y8yRjw - Style guides Javascript com ESLint, Prettier e EditorConfi
 - [ ]  https://www.youtube.com/watch?v=qaSwiYBC3sk - Features do ES2020 para o JavaScript | Code/Drops #20
 - [ ]  https://www.youtube.com/watch?v=erInHkjxkL8 - Padronizando mensagens de commit do Git | Code/Drops #12
 - [ ]  https://www.youtube.com/watch?v=IPLTUlRFxgo - Configurando CI em projeto open-source com Github Actions | Behind the Code #12
@@ -115,21 +105,16 @@ e os demais...
 - [x]  https://www.youtube.com/watch?v=L0zuZYh800Q - Boas práticas no front-end, técnicas e estratégias | Podcast FalaDev #12  
 - [x]  https://www.youtube.com/watch?v=mZrt5R9eZzM - Estratégias de autenticação, JWT, OAuth, qual usar? | Podcast FalaDev #21
 - [x]  https://www.youtube.com/watch?v=9qVpnT97Mxw - GraphQL e REST, a situação atual do mercado | Podcast FalaDev #07  
-- [ ]  https://www.youtube.com/watch?v=QBenZ7xpZds - Documentando uma API RESTful, ferramentas e timing | Podcast FalaDev #18
 - [ ]  https://www.youtube.com/watch?v=U2eMpo4e9LM - Offline First no React Native, como aplicar? | Podcast FalaDev #17
 - [ ]  https://www.youtube.com/watch?v=_J7LJlJ7UC8 - CI/CD com React Native, ferramentas e estratégias | Podcast FalaDev #20
 - [ ]  https://www.youtube.com/watch?v=NXqgPWqwApY - Hospedagem para Node.js, dicas e técnicas | Podcast FalaDev #14  
 - [ ]  https://www.youtube.com/watch?v=py6vHgL6saw - Testes no back-end, TDD e estratégias | Podcast FalaDev #10  
-- [ ]  https://www.youtube.com/watch?v=YPZehcsu9D0 - Sequelize e estratégias de SQL no Node.js | Podcast FalaDev #06  
 
 
 ### Variados:
-- [ ]  https://www.youtube.com/watch?v=2DJtGCesOr4 - Envio de e-mails em massa com Amazon SES, Node.js, TypeScript e Redis | Behind the Code #11  
 - [ ]  https://www.youtube.com/watch?v=rAzHvYnQ8DY - Array: Higher Order Functions
 - [ ]  https://www.youtube.com/watch?v=HN1UjzRSdBk - Desvendando o CSS Grid na prática
 - [ ]  https://www.youtube.com/watch?v=GSqR2i-Pq6o - Desvendando a variável this no Javascript
 - [ ]  https://www.youtube.com/watch?v=vqrjFnq3-uo - Criando Player de Áudio com Javascript
-- [ ]  https://www.youtube.com/watch?v=GykTLqODQuU - Formulário Animado com JS puro e CSS Animation
 - [ ]  https://www.youtube.com/watch?v=6wn8hpUcEcM - Drag and Drop Raiz com a API do HTML, CSS e JavaScript | Masterclass #16
-- [ ]  https://www.youtube.com/watch?v=EhnXaybirdA - Criando um projeto do zero para seu portfólio | Masterclass #14
 - [ ]  https://www.youtube.com/watch?v=K5yYBJhix5A - Extraindo dados de outros sites com Puppeteer JS | Code/Drops #46
