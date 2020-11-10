@@ -118,3 +118,18 @@ e os demais...
 - [ ]  https://www.youtube.com/watch?v=vqrjFnq3-uo - Criando Player de Áudio com Javascript
 - [ ]  https://www.youtube.com/watch?v=6wn8hpUcEcM - Drag and Drop Raiz com a API do HTML, CSS e JavaScript | Masterclass #16
 - [ ]  https://www.youtube.com/watch?v=K5yYBJhix5A - Extraindo dados de outros sites com Puppeteer JS | Code/Drops #46
+
+### Outros
+
+- [ ] bootcamp-gostack-9-0
+- [ ] bootcamp-gostack-11-0
+- [ ] react-js-ninja-react-completo
+- [ ] javascript-do-basico-ao-avancado-typescrip
+- [ ] workshop-power-sites
+- [ ] reactjs-hooks-tdd-clean-architecture-solid-e-patterns
+
+- [ ] javascript-algoritmos-estruturas-de-dados
+- [ ] javascript-masterclass
+- [ ] javascript-ninja
+- [ ] node-js-express-mongodb-more-the-complete-bootcamp-2020
+- [ ] html5-e-css3-tecnicas-avancadas-com-flexbox-e-4-projetos
