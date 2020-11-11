@@ -121,7 +121,6 @@ e os demais...
 
 ### Outros
 
-- [ ] bootcamp-gostack-9-0
 - [ ] bootcamp-gostack-11-0
 - [ ] javascript-masterclass
 - [ ] reactjs-hooks-tdd-clean-architecture-solid-e-patterns
