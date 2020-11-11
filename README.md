@@ -122,7 +122,6 @@ e os demais...
 ### Outros
 
 - [ ] bootcamp-gostack-11-0
-- [ ] javascript-masterclass
 - [ ] reactjs-hooks-tdd-clean-architecture-solid-e-patterns
-- [ ] javascript-do-basico-ao-avancado-typescrip
 - [ ] react-js-ninja-react-completo
+- [ ] javascript-do-basico-ao-avancado-typescrip
