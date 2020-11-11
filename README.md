@@ -123,13 +123,7 @@ e os demais...
 
 - [ ] bootcamp-gostack-9-0
 - [ ] bootcamp-gostack-11-0
-- [ ] react-js-ninja-react-completo
-- [ ] javascript-do-basico-ao-avancado-typescrip
-- [ ] workshop-power-sites
-- [ ] reactjs-hooks-tdd-clean-architecture-solid-e-patterns
-
-- [ ] javascript-algoritmos-estruturas-de-dados
 - [ ] javascript-masterclass
-- [ ] javascript-ninja
-- [ ] node-js-express-mongodb-more-the-complete-bootcamp-2020
-- [ ] html5-e-css3-tecnicas-avancadas-com-flexbox-e-4-projetos
+- [ ] reactjs-hooks-tdd-clean-architecture-solid-e-patterns
+- [ ] javascript-do-basico-ao-avancado-typescrip
+- [ ] react-js-ninja-react-completo
