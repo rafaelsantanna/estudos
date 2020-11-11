@@ -16,9 +16,9 @@ e os demais...
 
 ### React
 - [x]  https://www.youtube.com/watch?v=VsU6p7DHVtA - React Native Web, Expo, React.memo, O Universo do React Native | #PR 04
-- [ ]  https://www.youtube.com/watch?v=u99tNt3TZf8 - Desvendando o Redux na prática
 - [x]  https://www.youtube.com/watch?v=sYe4r8WXGQg - Controlando autenticação em rotas no ReactJS
 - [x]  https://www.youtube.com/watch?v=7L7MhxjI4PE - React Hooks + Redux
+- [ ]  https://www.youtube.com/watch?v=u99tNt3TZf8 - Desvendando o Redux na prática
 
 ### Padrões/Setup/Features
 - [ ]  https://www.youtube.com/watch?v=c7P03kkrEG8 - Configurando VSCode para Node.js, ReactJS e React Native
