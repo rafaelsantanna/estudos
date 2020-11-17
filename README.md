@@ -93,5 +93,5 @@ e os demais...
 - [ ] bootcamp-gostack-11-0
 - [ ] reactjs-hooks-tdd-clean-architecture-solid-e-patterns
 - [ ] react-js-ninja-react-completo
-- [ ] js-com-tdd-na-pratica/ -  JS com TDD na Prática  
 - [ ] javascript-do-basico-ao-avancado-typescrip
+- [ ] js-com-tdd-na-pratica/ -  JS com TDD na Prática  
